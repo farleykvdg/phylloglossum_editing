@@ -1,0 +1,582 @@
+##gff-version 3
+##source-version geneious 2023.2.1
+##sequence-region	Phylloglossum_drummondii_mitochondria	1	363297
+Phylloglossum_drummondii_mitochondria	Geneious	region	1	363297	.	+	0	Is_circular=true
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	4101	4101	7.16E-206	+	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	4441	4815	.	+	0	codon_start=1;gene=rps12
+Phylloglossum_drummondii_mitochondria	Geneious	gene	4441	4815	.	+	.	Name=rps12;ID=rps12
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	4495	4495	1.34E-19	+	.	note=C to U RNA editing (frequency 0.23)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	4614	4614	1.42E-319	+	.	note=C to U RNA editing (frequency 0.76)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	4661	4661	.	+	.	note=C to U RNA editing (frequency 0.78)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	5183	5183	1.53E-92	+	.	note=C to U RNA editing (frequency 0.37)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	5647	5647	4.23E-13	+	.	note=C to U RNA editing (frequency 0.20)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	6996	6996	1.69E-11	+	.	note=C to U RNA editing (frequency 0.14)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	7449	7449	3.28E-92	+	.	note=C to U RNA editing (frequency 0.63)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	7505	7675	.	+	0	codon_start=1;gene=cox3
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	8453	9079	.	+	0	codon_start=1;gene=cox3
+Phylloglossum_drummondii_mitochondria	Geneious	gene	7505	9079	.	+	.	Name=cox3;ID=cox3
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	8548	8548	1.42E-4	+	.	note=C to U RNA editing (frequency 0.10)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	8568	8568	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	8573	8573	2.03E-176	+	.	note=C to U RNA editing (frequency 0.29)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	8890	8890	0.00167	+	.	note=C to U RNA editing (frequency 0.09)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	8934	8934	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	8940	8940	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	9044	9044	4.55E-136	+	.	note=C to U RNA editing (frequency 0.24)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	9045	9045	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	9077	9077	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	25823	26147	.	-	.	gene=cox1
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	22345	23014	.	-	.	gene=cox1
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	19334	19487	.	-	.	gene=cox1
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	17633	18079	.	-	.	gene=cox1
+Phylloglossum_drummondii_mitochondria	Geneious	gene	17633	26147	.	-	.	Name=cox1;ID=cox1
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	17946	17946	.	-	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	17952	17952	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	18019	18019	.	-	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	18051	18051	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	18054	18054	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22396	22396	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22469	22469	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22544	22544	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22591	22591	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22622	22622	.	-	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22741	22741	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22744	22744	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22747	22747	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22762	22762	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22852	22852	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22879	22879	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22884	22884	2.26E-206	-	.	note=C to U RNA editing (frequency 0.28)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22885	22885	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	22894	22894	.	-	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	23017	23017	0.0109	-	.	note=C to U RNA editing (frequency 0.17)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	25835	25835	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	25945	25945	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	25946	25946	5.78E-287	-	.	note=C to U RNA editing (frequency 0.44)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	25996	25996	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	26084	26084	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	26089	26089	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	26117	26117	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	26146	26146	.	-	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	26194	26194	5.14E-10	-	.	note=C to U RNA editing (frequency 0.10)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	27914	27914	6.1E-222	-	.	note=C to U RNA editing (frequency 0.40)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	28321	28321	.	-	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	28349	28921	.	-	0	codon_start=1;gene=atp4
+Phylloglossum_drummondii_mitochondria	Geneious	gene	28349	28921	.	-	.	Name=atp4;ID=atp4
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	28873	28873	2.05E-248	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	28893	28893	1.67E-101	-	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	29159	29159	9.85E-46	-	.	note=C to U RNA editing (frequency 0.32)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	29709	29709	1.29E-17	-	.	note=C to U RNA editing (frequency 0.35)
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	30526	30598	.	-	.	gene=trnK-UUU;Name=trnK-UUU;ID=trnK-UUU
+Phylloglossum_drummondii_mitochondria	Geneious	gene	30526	30598	.	-	.	Name=trnK-UUU;ID=trnK-UUU
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	35833	35920	.	-	.	gene=trnS-GGA;Name=trnS-GGA;ID=trnS-GGA
+Phylloglossum_drummondii_mitochondria	Geneious	gene	35833	35920	.	-	.	Name=trnS-GGA;ID=trnS-GGA
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	39630	39716	.	-	.	gene=trnS-GCU;Name=trnS-GCU;ID=trnS-GCU
+Phylloglossum_drummondii_mitochondria	Geneious	gene	39630	39716	.	-	.	Name=trnS-GCU;ID=trnS-GCU
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	45170	45246	.	-	.	gene=trnL-GAG;Name=trnL-GAG;ID=trnL-GAG
+Phylloglossum_drummondii_mitochondria	Geneious	gene	45170	45246	.	-	.	Name=trnL-GAG;ID=trnL-GAG
+Phylloglossum_drummondii_mitochondria	Geneious	gene	51628	51951	.	+	.	Name=ccmFC_2;ID=ccmFC_2;pseudo
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	52528	52600	.	-	.	gene=trnH-GUG;Name=trnH-GUG;ID=trnH-GUG
+Phylloglossum_drummondii_mitochondria	Geneious	gene	52528	52600	.	-	.	Name=trnH-GUG;ID=trnH-GUG
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	52627	52706	.	-	.	gene=trnL-CAA;Name=trnL-CAA;ID=trnL-CAA
+Phylloglossum_drummondii_mitochondria	Geneious	gene	52627	52706	.	-	.	Name=trnL-CAA;ID=trnL-CAA
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	52708	52787	.	-	.	gene=trnL-UAA;Name=trnL-UAA;ID=trnL-UAA
+Phylloglossum_drummondii_mitochondria	Geneious	gene	52708	52787	.	-	.	Name=trnL-UAA;ID=trnL-UAA
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	59954	60027	.	+	.	gene=trnF-GAA;Name=trnF-GAA;ID=trnF-GAA
+Phylloglossum_drummondii_mitochondria	Geneious	gene	59954	60027	.	+	.	Name=trnF-GAA;ID=trnF-GAA
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	60883	60967	.	-	.	gene=trnL-UAG;Name=trnL-UAG;ID=trnL-UAG
+Phylloglossum_drummondii_mitochondria	Geneious	gene	60883	60967	.	-	.	Name=trnL-UAG;ID=trnL-UAG
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	61365	61448	.	-	.	gene=trnS-UGA;Name=trnS-UGA;ID=trnS-UGA
+Phylloglossum_drummondii_mitochondria	Geneious	gene	61365	61448	.	-	.	Name=trnS-UGA;ID=trnS-UGA
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	62255	63094	.	+	0	codon_start=1;gene=rps4
+Phylloglossum_drummondii_mitochondria	Geneious	gene	62255	63094	.	+	.	Name=rps4;ID=rps4
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	62532	62532	3.63E-159	+	.	note=C to U RNA editing (frequency 0.54)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	62709	62709	.	+	.	note=C to U RNA editing (frequency 0.73)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	63359	63359	5.07E-9	+	.	note=C to U RNA editing (frequency 0.11)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	63384	63384	1.49E-15	+	.	note=C to U RNA editing (frequency 0.16)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	63438	63438	.	+	.	note=C to U RNA editing (frequency 0.45)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	63557	64051	.	+	0	codon_start=1;gene=atp8
+Phylloglossum_drummondii_mitochondria	Geneious	gene	63557	64051	.	+	.	Name=atp8;ID=atp8
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	63567	63567	.	+	.	note=C to U RNA editing (frequency 0.87)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	63605	63605	.	+	.	note=C to U RNA editing (frequency 0.88)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	63678	63678	.	+	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	63758	63758	.	+	.	note=C to U RNA editing (frequency 0.79)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	63760	63760	.	+	.	note=C to U RNA editing (frequency 0.53)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	63775	63775	2.12E-15	+	.	note=C to U RNA editing (frequency 0.11)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	63792	63792	.	+	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	64237	64237	.	+	.	note=U to C RNA editing (frequency 0.63)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	64446	64446	.	+	.	note=C to U RNA editing (frequency 0.67)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	64585	64585	.	+	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	64639	64639	.	+	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Geneious	rRNA	67979	68096	.	+	.	Name=rrn5;ID=rrn5.rRNA;gene=rrn5
+Phylloglossum_drummondii_mitochondria	Geneious	gene	67979	68096	.	+	.	Name=rrn5;ID=rrn5
+Phylloglossum_drummondii_mitochondria	Geneious	rRNA	69143	71147	.	+	.	Name=rrn18;ID=rrn18.rRNA;gene=rrn18
+Phylloglossum_drummondii_mitochondria	Geneious	gene	69143	71147	.	+	.	Name=rrn18;ID=rrn18
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	71289	71361	.	+	.	gene=trnfM-CAU;Name=trnfM-CAU;ID=trnfM-CAU
+Phylloglossum_drummondii_mitochondria	Geneious	gene	71289	71361	.	+	.	Name=trnfM-CAU;ID=trnfM-CAU
+Phylloglossum_drummondii_mitochondria	Geneious	rRNA	72605	75472	.	+	.	Name=rrn26;ID=rrn26.rRNA;gene=rrn26
+Phylloglossum_drummondii_mitochondria	Geneious	gene	72605	75472	.	+	.	Name=rrn26;ID=rrn26
+
+Phylloglossum_drummondii_mitochondria	Geneious	gene	75750	82200	.	+	.	Name=cob;ID=cob
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	75750	76442	.	+	0	codon_start=1;gene=cob
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	78529	78622	.	+	0	codon_start=1;gene=cob
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	81818	82200	.	+	0	codon_start=1;gene=cob
+
+Phylloglossum_drummondii_mitochondria	Geneious	gene	75750	82200	.	+	.	Name=mat-cobi787g2c;ID=mat-cobi787g2c
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	75750	76442	.	+	0	codon_start=1;gene=mat-cobi787g2c
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	78529	81375	.	+	0	codon_start=1;gene=mat-cobi787g2c
+
+Phylloglossum_drummondii_mitochondria	Geneious	misc_feature	75885	75885	.	.	.	Name=misc;ID=misc
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	75885	75885	.	+	.	note=U to C RNA editing (frequency 0.75)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	76147	76147	.	+	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	76254	76254	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	78560	78560	.	+	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	80195	80195	5.07E-24	+	.	note=C to U RNA editing (frequency 0.36)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	80231	80231	0.00132	+	.	note=C to U RNA editing (frequency 0.14)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	80486	80486	1.89E-19	+	.	note=C to U RNA editing (frequency 0.31)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	80507	80507	1.9E-80	+	.	note=C to U RNA editing (frequency 0.61)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	81409	81409	7.1E-5	+	.	note=C to U RNA editing (frequency 0.24)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	81866	81866	.	+	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	81935	81935	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	81936	81936	8.46E-42	+	.	note=C to U RNA editing (frequency 0.13)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	81953	81953	.	+	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	81959	81959	.	+	.	note=C to U RNA editing (frequency 0.92)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	81992	81992	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	82046	82046	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	91471	91542	.	-	.	gene=trnG-GCC;Name=trnG-GCC;ID=trnG-GCC
+Phylloglossum_drummondii_mitochondria	Geneious	gene	91471	91542	.	-	.	Name=trnG-GCC;ID=trnG-GCC
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	91643	91716	.	-	.	gene=trnR-ACG;Name=trnR-ACG;ID=trnR-ACG
+Phylloglossum_drummondii_mitochondria	Geneious	gene	91643	91716	.	-	.	Name=trnR-ACG;ID=trnR-ACG
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	96514	96974	.	+	0	codon_start=1;gene=nad4
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	99821	100847	.	+	0	codon_start=1;gene=nad4
+Phylloglossum_drummondii_mitochondria	Geneious	gene	96514	100847	.	+	.	Name=nad4;ID=nad4
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	96532	96532	1.27E-311	+	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	96542	96542	1.51E-8	+	.	note=C to U RNA editing (frequency 0.18)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	96667	96667	.	+	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	96784	96784	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	96785	96785	1.81E-321	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	96830	96830	1.25E-298	+	.	note=C to U RNA editing (frequency 0.89)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	96884	96884	5.65E-216	+	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	96889	96889	2.75E-222	+	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	96916	96916	2.08E-299	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	96938	96938	.	+	.	note=C to U RNA editing (frequency 0.92)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	96949	96949	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	96950	96950	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100114	100114	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100129	100129	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100143	100143	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100153	100153	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100246	100246	.	+	.	note=C to U RNA editing (frequency 0.92)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100366	100366	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100370	100370	1.45E-14	+	.	note=C to U RNA editing (frequency 0.18)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100387	100387	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100392	100392	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100406	100406	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100408	100408	.	+	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100410	100410	.	+	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100501	100501	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100714	100714	.	+	.	note=C to U RNA editing (frequency 0.78)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	100792	100792	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	100868	101022	.	+	.	gene=nad2
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	102507	103181	.	+	.	gene=nad2
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	103882	104521	.	+	.	gene=nad2
+Phylloglossum_drummondii_mitochondria	Geneious	gene	100868	104521	.	+	.	Name=nad2;ID=nad2
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	102545	102545	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	102622	102622	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	102655	102655	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	102736	102736	.	+	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	102749	102749	.	+	.	note=C to U RNA editing (frequency 0.92)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	102854	102854	.	+	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	102855	102855	.	+	.	note=C to U RNA editing (frequency 0.47)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	102932	102932	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	103003	103003	1.21E-100	+	.	note=C to U RNA editing (frequency 0.17)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	103038	103038	2.43E-8	+	.	note=C to U RNA editing (frequency 0.11)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	103141	103141	.	+	.	note=C to U RNA editing (frequency 0.33)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	103910	103910	.	+	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	103977	103977	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	104181	104181	.	+	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	104241	104241	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	104243	104243	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	104326	104326	.	+	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	104426	104426	.	+	.	note=C to U RNA editing (frequency 0.61)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	104448	104448	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	104454	104454	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	104531	104531	.	+	.	note=C to U RNA editing (frequency 0.71)
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	120096	120169	.	+	.	gene=trnP-UGG;Name=trnP-UGG;ID=trnP-UGG
+Phylloglossum_drummondii_mitochondria	Geneious	gene	120096	120169	.	+	.	Name=trnP-UGG;ID=trnP-UGG
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	120368	120368	4.19E-37	+	.	note=C to U RNA editing (frequency 0.44)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	120652	120652	2.36E-232	+	.	note=C to U RNA editing (frequency 0.64)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	120812	120812	0.00139	+	.	note=C to U RNA editing (frequency 0.09)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	120813	120813	3.29E-12	+	.	note=C to U RNA editing (frequency 0.13)
+
+Phylloglossum_drummondii_mitochondria	Geneious	gene	121356	129854	.	+	.	Name=atp9;ID=atp9
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	121356	121376	.	+	0	codon_start=1;gene=atp9
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	122961	123026	.	+	0	codon_start=1;gene=atp9
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	126562	126569	.	+	0	codon_start=1;gene=atp9
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	129725	129854	.	+	0	codon_start=1;gene=atp9
+
+Phylloglossum_drummondii_mitochondria	Geneious	gene	121356	129854	.	+	.	Name=mat-atp9i87g2c;ID=mat-atp9i87g2c
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	121356	121376	.	+	0	codon_start=1;gene=mat-atp9i87g2c
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	122961	124142	.	+	0	codon_start=1;gene=mat-atp9i87g2c
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	125065	126111	.	+	0	codon_start=1;gene=mat-atp9i87g2c
+
+Phylloglossum_drummondii_mitochondria	Geneious	gene	121356	129854	.	+	.	Name=mat-atp9i95g2c;ID=mat-atp9i95g2c
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	121356	121376	.	+	0	codon_start=1;gene=mat-atp9i95g2c
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	122961	123026	.	+	0	codon_start=1;gene=mat-atp9i95g2c
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	126562	129306	.	+	0	codon_start=1;gene=mat-atp9i95g2c
+
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	121690	121690	.	+	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	121957	121957	.	+	.	note=C to U RNA editing (frequency 0.89)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	123784	123784	.	+	.	note=C to U RNA editing (frequency 0.62)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	125093	125093	.	+	.	note=C to U RNA editing (frequency 0.73)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	125155	125155	.	+	.	note=C to U RNA editing (frequency 0.45)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	125468	125468	1.39E-42	+	.	note=C to U RNA editing (frequency 0.30)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	126025	126025	.	+	.	note=C to U RNA editing (frequency 0.62)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	127783	127783	1.03E-227	+	.	note=C to U RNA editing (frequency 0.39)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	128003	128003	7.55E-207	+	.	note=C to U RNA editing (frequency 0.39)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	128018	128018	.	+	.	note=C to U RNA editing (frequency 0.74)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	128660	128660	9.85E-88	+	.	note=C to U RNA editing (frequency 0.20)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	129781	129781	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	129793	129793	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	129805	129805	.	+	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	129814	129814	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	129823	129823	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	129835	129835	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	129852	129852	.	+	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	140763	140845	.	-	.	gene=trnY-GUA-2;Name=trnY-GUA;ID=trnY-GUA
+Phylloglossum_drummondii_mitochondria	Geneious	gene	140763	140845	.	-	.	Name=trnY-GUA;ID=trnY-GUA-2
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	141019	141092	.	-	.	gene=trnR-UCU;Name=trnR-UCU;ID=trnR-UCU
+Phylloglossum_drummondii_mitochondria	Geneious	gene	141019	141092	.	-	.	Name=trnR-UCU;ID=trnR-UCU
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	145593	145961	.	-	.	gene=rps13
+Phylloglossum_drummondii_mitochondria	Geneious	gene	145593	145961	.	-	.	Name=rps13;ID=rps13
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	145753	145753	.	-	.	note=C to U RNA editing (frequency 0.92)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	145819	145819	2.65E-211	-	.	note=C to U RNA editing (frequency 0.72)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	145846	145846	.	-	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	145901	145901	5.22E-7	-	.	note=C to U RNA editing (frequency 0.17)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	145906	145906	.	-	.	note=C to U RNA editing (frequency 0.89)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	145955	145955	.	-	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	145960	145960	.	-	.	note=C to U RNA editing (frequency 0.80)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	145962	145962	7.17E-15	-	.	note=C to U RNA editing (frequency 0.25)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	145965	146285	.	-	.	gene=rpl6
+Phylloglossum_drummondii_mitochondria	Geneious	gene	145965	146285	.	-	.	Name=rpl6;ID=rpl6
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	145967	145967	.	-	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	146191	146191	4.99E-150	-	.	note=C to U RNA editing (frequency 0.65)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	146252	146252	0.00593	-	.	note=C to U RNA editing (frequency 0.11)
+Phylloglossum_drummondii_mitochondria	Geneious	gene	146275	147571	.	-	.	Name=rps8;ID=rps8;pseudogene=unitary
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	146292	146292	1.19E-31	-	.	note=C to U RNA editing (frequency 0.30)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	146417	146417	2.66E-229	-	.	note=C to U RNA editing (frequency 0.67)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	146423	146423	5.77E-20	-	.	note=C to U RNA editing (frequency 0.19)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	146981	146981	6.22E-155	-	.	note=C to U RNA editing (frequency 0.64)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	150754	150867	.	-	0	codon_start=1;gene=rps14
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	147895	148080	.	-	0	codon_start=1;gene=rps14
+Phylloglossum_drummondii_mitochondria	Geneious	gene	147895	150867	.	-	.	Name=rps14;ID=rps14
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	149180	149180	7.23E-16	-	.	note=C to U RNA editing (frequency 0.20)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	149192	149192	.	-	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	149346	149346	7.99E-93	-	.	note=C to U RNA editing (frequency 0.56)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	150872	151432	.	-	0	codon_start=1;gene=rpl5
+Phylloglossum_drummondii_mitochondria	Geneious	gene	150872	151432	.	-	.	Name=rpl5;ID=rpl5
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	150903	150903	7.68E-105	-	.	note=C to U RNA editing (frequency 0.72)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	151092	151092	2.46E-130	-	.	note=C to U RNA editing (frequency 0.77)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	151311	151311	1.04E-143	-	.	note=C to U RNA editing (frequency 0.73)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	151332	151332	7.05E-112	-	.	note=C to U RNA editing (frequency 0.73)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	152108	152515	.	-	0	codon_start=1;gene=rpl16
+Phylloglossum_drummondii_mitochondria	Geneious	gene	152108	152515	.	-	.	Name=rpl16;ID=rpl16
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	152208	152208	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	152415	152415	1.44E-157	-	.	note=C to U RNA editing (frequency 0.65)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	152541	152541	2.6E-141	-	.	note=C to U RNA editing (frequency 0.79)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	158081	158154	.	-	0	codon_start=1;gene=rps3
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	154903	155080	.	-	0	codon_start=1;gene=rps3
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	152562	153818	.	-	0	codon_start=1;gene=rps3
+Phylloglossum_drummondii_mitochondria	Geneious	gene	152562	158154	.	-	.	Name=rps3;ID=rps3
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	152812	152812	1.33E-87	-	.	note=C to U RNA editing (frequency 0.73)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	152839	152839	8.24E-77	-	.	note=C to U RNA editing (frequency 0.73)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	153170	153170	7.99E-43	-	.	note=C to U RNA editing (frequency 0.48)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	158161	158415	.	-	0	codon_start=1;gene=rps19
+Phylloglossum_drummondii_mitochondria	Geneious	gene	158161	158415	.	-	.	Name=rps19;ID=rps19
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	158261	158261	1.12E-112	-	.	note=C to U RNA editing (frequency 0.75)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	159879	160922	.	-	0	codon_start=1;gene=rpl2
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	158419	159132	.	-	0	codon_start=1;gene=rpl2
+Phylloglossum_drummondii_mitochondria	Geneious	gene	158419	160922	.	-	.	Name=rpl2;ID=rpl2
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	160530	160530	9.62E-12	-	.	note=C to U RNA editing (frequency 0.38)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	160817	160817	3.35E-14	-	.	note=U to C RNA editing (frequency 0.21)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	160882	160882	8.81E-72	-	.	note=C to U RNA editing (frequency 0.55)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	163906	163906	6.53E-303	-	.	note=C to U RNA editing (frequency 0.87)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	163926	163926	1.93E-21	-	.	note=C to U RNA editing (frequency 0.63)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	165664	165664	1.05E-94	-	.	note=C to U RNA editing (frequency 0.80)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	166395	166395	6.32E-5	-	.	note=C to U RNA editing (frequency 0.16)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	175988	177532	.	-	0	codon_start=1;gene=atp1
+Phylloglossum_drummondii_mitochondria	Geneious	gene	175988	177532	.	-	.	Name=atp1;ID=atp1
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	176622	176622	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	177495	177495	.	-	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	177512	177512	.	-	.	note=C to U RNA editing (frequency 0.41)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	180287	180521	.	-	0	codon_start=1;gene=rps10
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	179407	179483	.	-	0	codon_start=1;gene=rps10
+Phylloglossum_drummondii_mitochondria	Geneious	gene	179407	180521	.	-	.	Name=rps10;ID=rps10
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	183017	183086	.	-	.	gene=trnG-UCC;Name=trnG-UCC;ID=trnG-UCC
+Phylloglossum_drummondii_mitochondria	Geneious	gene	183017	183086	.	-	.	Name=trnG-UCC;ID=trnG-UCC
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	184418	184720	.	-	0	codon_start=1;gene=nad4L
+Phylloglossum_drummondii_mitochondria	Geneious	gene	184418	184720	.	-	.	Name=nad4L;ID=nad4L
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	184530	184530	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	184554	184554	.	-	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	184581	184581	.	-	.	note=C to U RNA editing (frequency 0.89)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	184621	184621	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	185893	186153	.	-	0	codon_start=1;gene=sdh4
+Phylloglossum_drummondii_mitochondria	Geneious	gene	185893	186153	.	-	.	Name=sdh4;ID=sdh4
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	185895	185895	7.21E-251	-	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	185897	185897	2.63E-248	-	.	note=C to U RNA editing (frequency 0.92)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	185933	185933	5.5E-201	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	185964	185964	5.11E-192	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	185991	185991	1.09E-248	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	186152	186152	2.17E-164	-	.	note=C to U RNA editing (frequency 0.87)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	187540	187540	.	-	.	note=C to U RNA editing (frequency 0.84)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	187884	187884	5.33E-290	-	.	note=C to U RNA editing (frequency 0.54)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	188083	188083	6.85E-130	-	.	note=C to U RNA editing (frequency 0.64)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	191365	191713	.	-	0	codon_start=1;gene=sdh3
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	187856	187902	.	-	0	codon_start=1;gene=sdh3
+Phylloglossum_drummondii_mitochondria	Geneious	gene	187856	191713	.	-	.	Name=sdh3;ID=sdh3
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	191368	191368	.	-	.	note=C to U RNA editing (frequency 0.87)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	191387	191387	1.29E-30	-	.	note=C to U RNA editing (frequency 0.24)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	191457	191457	.	-	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	191458	191458	.	-	.	note=C to U RNA editing (frequency 0.88)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	191497	191497	7.56E-206	-	.	note=C to U RNA editing (frequency 0.66)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	191526	191526	2.36E-149	-	.	note=C to U RNA editing (frequency 0.71)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	191545	191545	.	-	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	191546	191546	.	-	.	note=C to U RNA editing (frequency 0.79)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	191547	191547	.	-	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	191647	191647	.	-	.	note=C to U RNA editing (frequency 0.87)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	191747	191747	2.63E-16	-	.	note=C to U RNA editing (frequency 0.18)
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	196934	197006	.	+	.	gene=trnV-UAC;Name=trnV-UAC;ID=trnV-UAC
+Phylloglossum_drummondii_mitochondria	Geneious	gene	196934	197006	.	+	.	Name=trnV-UAC;ID=trnV-UAC
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	201886	201959	.	+	.	gene=trnD-GUC;Name=trnD-GUC;ID=trnD-GUC
+Phylloglossum_drummondii_mitochondria	Geneious	gene	201886	201959	.	+	.	Name=trnD-GUC;ID=trnD-GUC
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	203191	203263	.	+	.	gene=trnA-UGC;Name=trnA-UGC;ID=trnA-UGC
+Phylloglossum_drummondii_mitochondria	Geneious	gene	203191	203263	.	+	.	Name=trnA-UGC;ID=trnA-UGC
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	214154	214227	.	-	.	gene=trnM-CAU-2;Name=trnM-CAU;ID=trnM-CAU
+Phylloglossum_drummondii_mitochondria	Geneious	gene	214154	214227	.	-	.	Name=trnM-CAU;ID=trnM-CAU-2
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	216867	216939	.	-	.	gene=trnN-GUU;Name=trnN-GUU;ID=trnN-GUU
+Phylloglossum_drummondii_mitochondria	Geneious	gene	216867	216939	.	-	.	Name=trnN-GUU;ID=trnN-GUU
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	227494	227937	.	-	0	codon_start=1;gene=rps11
+Phylloglossum_drummondii_mitochondria	Geneious	gene	227494	227937	.	-	.	Name=rps11;ID=rps11
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	234216	234911	.	-	0	codon_start=1;gene=nad6
+Phylloglossum_drummondii_mitochondria	Geneious	gene	234216	234911	.	-	.	Name=nad6;ID=nad6
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	234319	234319	0.00169	-	.	note=U to C RNA editing (frequency 0.16)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	234694	234694	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	234703	234703	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	234708	234708	.	-	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	234709	234709	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	234710	234710	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	234712	234712	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	234714	234714	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	234715	234715	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	234718	234718	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	234814	234814	.	-	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	234820	234820	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	234932	234932	.	-	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	237209	237209	.	-	.	note=C to U RNA editing (frequency 0.88)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	237229	237229	2.44E-32	-	.	note=C to U RNA editing (frequency 0.63)
+Phylloglossum_drummondii_mitochondria	Geneious	rRNA	237757	240624	.	-	.	Name=rrn26;ID=rrn26;gene=rrn26-2
+Phylloglossum_drummondii_mitochondria	Geneious	gene	237757	240624	.	-	.	Name=rrn26;ID=rrn26-2
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	241868	241940	.	-	.	gene=trnfM-CAU-3;Name=trnfM-CAU;ID=trnfM-CAU
+Phylloglossum_drummondii_mitochondria	Geneious	gene	241868	241940	.	-	.	Name=trnfM-CAU;ID=trnfM-CAU-3
+Phylloglossum_drummondii_mitochondria	Geneious	rRNA	242082	244086	.	-	.	Name=rrn18;ID=rrn18;gene=rrn18-2
+Phylloglossum_drummondii_mitochondria	Geneious	gene	242082	244086	.	-	.	Name=rrn18;ID=rrn18-2
+Phylloglossum_drummondii_mitochondria	Geneious	rRNA	245133	245250	.	-	.	Name=rrn5;ID=rrn5;gene=rrn5-2
+Phylloglossum_drummondii_mitochondria	Geneious	gene	245133	245250	.	-	.	Name=rrn5;ID=rrn5-2
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	259425	259816	.	-	.	gene=nad5
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	257641	258490	.	-	.	gene=nad5
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	254716	254929	.	-	.	gene=nad5
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	251956	251977	.	-	.	gene=nad5
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	248588	249143	.	-	.	gene=nad5
+Phylloglossum_drummondii_mitochondria	Geneious	gene	248588	259816	.	-	.	Name=nad5;ID=nad5
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	248590	248590	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	248644	248644	.	-	.	note=C to U RNA editing (frequency 0.92)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	248783	248783	.	-	.	note=C to U RNA editing (frequency 0.68)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	248992	248992	.	-	.	note=U to C RNA editing (frequency 0.69)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	253391	253391	2.31E-5	-	.	note=C to U RNA editing (frequency 0.14)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	255285	255285	1.2E-11	-	.	note=C to U RNA editing (frequency 0.12)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	255292	255292	9.89E-119	-	.	note=C to U RNA editing (frequency 0.38)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	257660	257660	.	-	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	257726	257726	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	257825	257825	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	258047	258047	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	258050	258050	.	-	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	258092	258092	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	258145	258145	2.47E-236	-	.	note=C to U RNA editing (frequency 0.48)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	258194	258194	.	-	.	note=C to U RNA editing (frequency 0.90)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	258197	258197	.	-	.	note=C to U RNA editing (frequency 0.92)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	258198	258198	.	-	.	note=C to U RNA editing (frequency 0.90)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	258199	258199	.	-	.	note=C to U RNA editing (frequency 0.90)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	258200	258200	.	-	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	258317	258317	.	-	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	258330	258330	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	258434	258434	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	259458	259458	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	259459	259459	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	259542	259542	.	-	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	259815	259815	.	-	.	note=C to U RNA editing (frequency 0.80)
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	260335	260393	.	+	.	gene=trnI-AAU;Name=trnI-AAU;ID=trnI-AAU
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	260398	260434	.	+	.	gene=trnI-AAU;Name=trnI-AAU;ID=trnI-AAU
+Phylloglossum_drummondii_mitochondria	Geneious	gene	260335	260434	.	+	.	Name=trnI-AAU;ID=trnI-AAU
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	260436	260515	.	+	.	gene=trnL-CAA-2;Name=trnL-CAA;ID=trnL-CAA-2.tRNA
+Phylloglossum_drummondii_mitochondria	Geneious	gene	260436	260515	.	+	.	Name=trnL-CAA;ID=trnL-CAA-2
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	260542	260618	.	+	.	gene=trnH-GUG-2;Name=trnH-GUG;ID=trnH-GUG
+Phylloglossum_drummondii_mitochondria	Geneious	gene	260542	260618	.	+	.	Name=trnH-GUG;ID=trnH-GUG-2
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	260957	261460	.	-	0	codon_start=1;gene=rpl10
+Phylloglossum_drummondii_mitochondria	Geneious	gene	260957	261460	.	-	.	Name=rpl10;ID=rpl10
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	261072	261072	3.19E-221	-	.	note=C to U RNA editing (frequency 0.79)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	261345	261345	3.9E-280	-	.	note=C to U RNA editing (frequency 0.75)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	261387	261387	1.7E-299	-	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	261438	261438	9.6E-255	-	.	note=C to U RNA editing (frequency 0.76)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	261575	261575	3.82E-141	-	.	note=C to U RNA editing (frequency 0.79)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	261903	261903	2.3E-4	-	.	note=C to U RNA editing (frequency 0.17)
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	262417	262488	.	+	.	gene=trnQ-UUG;Name=trnQ-UUG;ID=trnQ-UUG
+Phylloglossum_drummondii_mitochondria	Geneious	gene	262417	262488	.	+	.	Name=trnQ-UUG;ID=trnQ-UUG
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	262512	262512	2.35E-35	-	.	note=C to U RNA editing (frequency 0.56)
+Phylloglossum_drummondii_mitochondria	Geneious	gene	262535	263077	.	-	.	Name=ccmFC_1;ID=ccmFC_1;pseudo
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	263787	263787	3.4E-19	-	.	note=C to U RNA editing (frequency 0.29)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	263834	263834	3.56E-6	-	.	note=C to U RNA editing (frequency 0.30)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	275238	275238	3.19E-91	+	.	note=C to U RNA editing (frequency 0.77)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	276705	277487	.	+	0	codon_start=1;gene=rps2
+Phylloglossum_drummondii_mitochondria	Geneious	gene	276705	277487	.	+	.	Name=rps2;ID=rps2
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	277179	277179	3.96E-201	+	.	note=C to U RNA editing (frequency 0.75)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	277254	277254	2.78E-262	+	.	note=C to U RNA editing (frequency 0.78)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	277612	277612	6.68E-51	+	.	note=C to U RNA editing (frequency 0.39)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	278035	278625	.	+	0	codon_start=1;gene=nad9
+Phylloglossum_drummondii_mitochondria	Geneious	gene	278035	278625	.	+	.	Name=nad9;ID=nad9
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	278036	278036	.	+	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	278052	278052	1.97E-5	+	.	note=C to U RNA editing (frequency 0.13)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	278080	278080	.	+	.	note=C to U RNA editing (frequency 0.89)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	278140	278140	1.18E-4	+	.	note=C to U RNA editing (frequency 0.25)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	278141	278141	.	+	.	note=C to U RNA editing (frequency 0.88)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	278195	278195	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	278258	278258	.	+	.	note=C to U RNA editing (frequency 0.92)
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	279185	279263	.	-	.	gene=trnW-CCA;Name=trnW-CCA;ID=trnW-CCA
+Phylloglossum_drummondii_mitochondria	Geneious	gene	279185	279263	.	-	.	Name=trnW-CCA;ID=trnW-CCA
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	279346	279346	2.19E-250	+	.	note=C to U RNA editing (frequency 0.68)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281008	281008	5.19E-33	+	.	note=C to U RNA editing (frequency 0.15)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281011	281011	2.49E-48	+	.	note=C to U RNA editing (frequency 0.24)
+Phylloglossum_drummondii_mitochondria	Geneious	gene	281533	292020	.	+	.	Name=nad1;ID=nad1
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	281533	281926	.	+	0	codon_start=1;gene=nad1
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	283563	283644	.	+	0	codon_start=1;gene=nad1
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	285092	285284	.	+	0	codon_start=1;gene=nad1
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	288346	288404	.	+	0	codon_start=1;gene=nad1
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	291762	292020	.	+	0	codon_start=1;gene=nad1
+
+Phylloglossum_drummondii_mitochondria	Geneious	gene	281533	291012	.	+	.	Name=matR;ID=matR
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	281533	281926	.	+	0	codon_start=1;gene=matR
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	283563	283644	.	+	0	codon_start=1;gene=matR
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	285092	285284	.	+	0	codon_start=1;gene=matR
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	288346	291012	.	+	0	codon_start=1;gene=matR
+
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281534	281534	.	+	.	note=C to U RNA editing (frequency 0.75)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281540	281540	.	+	.	note=C to U RNA editing (frequency 0.90)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281591	281591	.	+	.	note=C to U RNA editing (frequency 0.88)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281593	281593	1.09E-40	+	.	note=C to U RNA editing (frequency 0.15)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281594	281594	.	+	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281609	281609	.	+	.	note=C to U RNA editing (frequency 0.81)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281615	281615	.	+	.	note=C to U RNA editing (frequency 0.74)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281765	281765	.	+	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281792	281792	.	+	.	note=C to U RNA editing (frequency 0.90)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281806	281806	.	+	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281816	281816	.	+	.	note=C to U RNA editing (frequency 0.90)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281849	281849	.	+	.	note=C to U RNA editing (frequency 0.92)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	281866	281866	.	+	.	note=C to U RNA editing (frequency 0.89)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	283581	283581	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	285105	285105	.	+	.	note=C to U RNA editing (frequency 0.45)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	285144	285144	.	+	.	note=U to C RNA editing (frequency 0.33)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	285204	285204	.	+	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	285237	285237	1.92E-15	+	.	note=C to U RNA editing (frequency 0.11)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	285259	285259	.	+	.	note=C to U RNA editing (frequency 0.89)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	288368	288368	.	+	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	288374	288374	.	+	.	note=C to U RNA editing (frequency 0.68)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	288392	288392	.	+	.	note=C to U RNA editing (frequency 0.75)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	289724	289724	.	+	.	note=C to U RNA editing (frequency 0.84)
+
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	291801	291801	0.00187	+	.	note=C to U RNA editing (frequency 0.06)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	291995	291995	.	+	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	292018	292018	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	292079	292079	2.18E-103	+	.	note=C to U RNA editing (frequency 0.14)
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	296264	296337	.	-	.	gene=trnM-CAU-3;Name=trnM-CAU;ID=trnM-CAU
+Phylloglossum_drummondii_mitochondria	Geneious	gene	296264	296337	.	-	.	Name=trnM-CAU;ID=trnM-CAU-3
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	302670	302749	.	-	0	codon_start=1;gene=atp6
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	301689	302047	.	-	0	codon_start=1;gene=atp6
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	298079	298398	.	-	0	codon_start=1;gene=atp6
+Phylloglossum_drummondii_mitochondria	Geneious	gene	298079	302749	.	-	.	Name=atp6;ID=atp6
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	298086	298086	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	298104	298104	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	298119	298119	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	298128	298128	.	-	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	298188	298188	.	-	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	298191	298191	.	-	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	298257	298257	.	-	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	298299	298299	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	298311	298311	.	-	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	299175	299175	.	-	.	note=C to U RNA editing (frequency 0.67)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	301693	301693	.	-	.	note=C to U RNA editing (frequency 0.67)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	302027	302027	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	302748	302748	.	-	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	313384	313435	.	-	0	codon_start=1;gene=nad3
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	311642	311729	.	-	0	codon_start=1;gene=nad3
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	309242	309458	.	-	0	codon_start=1;gene=nad3
+Phylloglossum_drummondii_mitochondria	Geneious	gene	309242	313435	.	-	.	Name=nad3;ID=nad3
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	309279	309279	.	-	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	309294	309294	.	-	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	309389	309389	3.54E-182	-	.	note=C to U RNA editing (frequency 0.18)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	309393	309393	.	-	.	note=C to U RNA editing (frequency 0.75)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	309399	309399	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	309402	309402	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	309414	309414	.	-	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	309431	309431	.	-	.	note=C to U RNA editing (frequency 0.68)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	309432	309432	.	-	.	note=C to U RNA editing (frequency 0.90)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	310852	310852	.	-	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	311658	311658	.	-	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	311709	311709	.	-	.	note=C to U RNA editing (frequency 0.55)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	311723	311723	3.88E-103	-	.	note=C to U RNA editing (frequency 0.24)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	311782	311782	1.32E-13	-	.	note=C to U RNA editing (frequency 0.10)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	313436	313436	.	-	.	note=C to U RNA editing (frequency 0.84)
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	313456	313528	.	+	.	gene=trnW-CCA-2;Name=trnW-CCA;ID=trnW-CCA
+Phylloglossum_drummondii_mitochondria	Geneious	gene	313456	313528	.	+	.	Name=trnW-CCA;ID=trnW-CCA-2
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	318080	318151	.	-	.	gene=trnQ-UUG-2;Name=trnQ-UUG;ID=trnQ-UUG
+Phylloglossum_drummondii_mitochondria	Geneious	gene	318080	318151	.	-	.	Name=trnQ-UUG;ID=trnQ-UUG-2
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	318863	318936	.	-	.	gene=trnI-CAU;Name=trnI-CAU;ID=trnI-CAU
+Phylloglossum_drummondii_mitochondria	Geneious	gene	318863	318936	.	-	.	Name=trnI-CAU;ID=trnI-CAU
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	321941	322011	.	-	.	gene=trnC-GCA;Name=trnC-GCA;ID=trnC-GCA
+Phylloglossum_drummondii_mitochondria	Geneious	gene	321941	322011	.	-	.	Name=trnC-GCA;ID=trnC-GCA
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	332547	332628	.	-	.	gene=trnY-GUA;gene=trnY-GUA;Name=trnY-GUA;ID=trnY-GUA
+Phylloglossum_drummondii_mitochondria	Geneious	gene	332547	332628	.	-	.	Name=trnY-GUA;ID=trnY-GUA
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	333455	333455	3.55E-46	+	.	note=C to U RNA editing (frequency 0.56)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	333591	334331	.	+	0	codon_start=1;gene=tatC
+Phylloglossum_drummondii_mitochondria	Geneious	gene	333591	334331	.	+	.	Name=tatC;ID=tatC
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	333690	333690	1.59E-83	+	.	note=C to U RNA editing (frequency 0.69)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	333706	333706	2.05E-53	+	.	note=C to U RNA editing (frequency 0.60)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	333711	333711	4.42E-5	+	.	note=C to U RNA editing (frequency 0.23)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	333712	333712	3.68E-26	+	.	note=C to U RNA editing (frequency 0.45)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	333726	333726	3.8E-61	+	.	note=C to U RNA editing (frequency 0.63)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	333727	333727	4.58E-65	+	.	note=C to U RNA editing (frequency 0.67)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	333733	333733	3.32E-113	+	.	note=C to U RNA editing (frequency 0.77)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	333759	333759	4.29E-102	+	.	note=C to U RNA editing (frequency 0.77)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	333769	333769	5.9E-96	+	.	note=C to U RNA editing (frequency 0.76)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	333781	333781	2.49E-101	+	.	note=C to U RNA editing (frequency 0.80)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	334252	334252	0.00134	+	.	note=C to U RNA editing (frequency 0.26)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	335652	335652	3.3E-25	+	.	note=C to U RNA editing (frequency 0.38)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	335777	335777	1.13E-98	+	.	note=C to U RNA editing (frequency 0.61)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	335876	335876	7.01E-117	+	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	347274	347274	6.76E-28	+	.	note=C to U RNA editing (frequency 0.18)
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	347277	347379	.	+	0	codon_start=1;gene=cox2
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	348397	348675	.	+	0	codon_start=1;gene=cox2
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	350933	351250	.	+	0	codon_start=1;gene=cox2
+Phylloglossum_drummondii_mitochondria	Geneious	CDS	353764	353828	.	+	0	codon_start=1;gene=cox2
+Phylloglossum_drummondii_mitochondria	Geneious	gene	347277	353828	.	+	.	Name=cox2;ID=cox2
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	347319	347319	.	+	.	note=C to U RNA editing (frequency 0.88)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	348430	348430	.	+	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	350981	350981	.	+	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	351011	351011	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	351026	351026	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	351030	351030	.	+	.	note=C to U RNA editing (frequency 0.50)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	351164	351164	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	352269	352269	1.37E-9	+	.	note=C to U RNA editing (frequency 0.21)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	353805	353805	.	+	.	note=C to U RNA editing (frequency 0.90)
+Phylloglossum_drummondii_mitochondria	Pyrimid	misc_feature	353826	353826	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	360873	360946	.	-	.	gene=trnR-ACG-2;Name=trnR-ACG;ID=trnR-ACG
+Phylloglossum_drummondii_mitochondria	Geneious	gene	360873	360946	.	-	.	Name=trnR-ACG;ID=trnR-ACG-2
+Phylloglossum_drummondii_mitochondria	Geneious	tRNA	361269	361340	.	+	.	gene=trnE-UUC;Name=trnE-UUC;ID=trnE-UUC
+Phylloglossum_drummondii_mitochondria	Geneious	gene	361269	361340	.	+	.	Name=trnE-UUC;ID=trnE-UUC

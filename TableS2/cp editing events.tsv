@@ -1,0 +1,286 @@
+genome	strand	position	id	reference_base	edited_base	proportion_edited	gene	cds_position	codon_position	codon	edited_codon	aa	edited_aa	synonymous	creates_start	creates_stop	removes_stop	preceding_base	subsequent_base
+cp	+	737	rps12BeU448	C	U	0.8	rps12B	448	0	---	---	-	-		false	false	false	U	G
+cp	+	2178	ndhBeU395SL	C	U	0.9	ndhB	395	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	2430	ndhBeU647PL	C	U	0.9	ndhB	647	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	+	3241	ndhBeU779SL	C	U	0.8	ndhB	779	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	3260	ndhBeU798II	C	U	0.7	ndhB	798	3	ATC	AUU	I	I	true	false	false	false	U	U
+cp	+	3262	ndhBeU800SL	C	U	0.7	ndhB	800	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	3574	ndhBeU1112PL	C	U	0.9	ndhB	1112	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	+	3607	ndhBeU1145PL	C	U	0.9	ndhB	1145	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	3974	3974eU	C	U	0.2		0	0	---	---	-	-		false	false	false	U	U
+cp	-	5990	petNeU44SF	C	U	0.9	petN	44	2	TCC	UUC	S	F	false	false	false	false	U	C
+cp	+	12090	rpoC1eU991RC	C	U	0.7	rpoC1	991	1	CGT	UGU	R	C	false	false	false	false	U	G
+cp	+	12155	rpoC1eU1056PP	C	U	0.2	rpoC1	1056	3	CCC	CCU	P	P	true	false	false	false	C	A
+cp	-	15795	15795eU	C	U	0.7		0	0	---	---	-	-		false	false	false	C	A
+cp	+	19092	rps2eU161SL	C	U	0.9	rps2	161	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	19110	rps2eU179SL	C	U	0.9	rps2	179	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	19146	rps2eU215SL	C	U	0.9	rps2	215	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	19153	rps2eU222VV	C	U	0.4	rps2	222	3	GTC	GUU	V	V	true	false	false	false	U	G
+cp	+	19182	rps2eU251TI	C	U	0.9	rps2	251	2	ACA	AUA	T	I	false	false	false	false	A	A
+cp	+	19428	rps2eU497TI	C	U	0.9	rps2	497	2	ACA	AUA	T	I	false	false	false	false	A	A
+cp	+	19584	rps2eU653SL	C	U	0.9	rps2	653	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	19880	19880eU	C	U	0.1		0	0	---	---	-	-		false	false	false	U	U
+cp	+	19908	atpIeU2TM	C	U	0.9	atpI	2	2	ACG	AUG	T	M	false	true	false	false	A	G
+cp	+	20052	atpIeU146SL	C	U	0.9	atpI	146	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	20130	atpIeU224PL	C	U	0.9	atpI	224	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	20286	atpIeU380SL	C	U	0.9	atpI	380	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	20526	atpIeU620PL	C	U	0.9	atpI	620	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	20648	atpIeU742Q*	C	U	0.9	atpI	742	1	CAA	UAA	Q	*	false	false	true	false	U	A
+cp	+	21562	atpHeU65TI	C	U	0.9	atpH	65	2	ACT	AUU	T	I	false	false	false	false	A	U
+cp	+	22215	atpFeU101SL	C	U	0.9	atpF	101	2	TCG	UUG	S	L	false	false	false	false	U	G
+cp	+	22233	atpFeU119PL	C	U	0.9	atpF	119	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	22904	atpFeU790	C	U	0.7	atpF	790	0	---	---	-	-		false	false	false	C	A
+cp	+	23559	atpAeU167SF	C	U	0.9	atpA	167	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	+	23586	atpAeU194SL	C	U	0.9	atpA	194	2	TCG	UUG	S	L	false	false	false	false	U	G
+cp	+	24141	atpAeU749SF	C	U	0.9	atpA	749	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	+	24441	atpAeU1049SF	C	U	0.9	atpA	1049	2	TCC	UUC	S	F	false	false	false	false	U	C
+cp	+	24442	atpAeU1050SS	C	U	0.8	atpA	1050	3	TCC	UCU	S	S	true	false	false	false	C	A
+cp	+	24738	atpAeU1346PL	C	U	0.9	atpA	1346	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	24861	atpAeU1469SL	C	U	0.9	atpA	1469	2	TCG	UUG	S	L	false	false	false	false	U	G
+cp	-	26887	psb30eU74PL	C	U	1.0	psb30	74	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	-	27248	27248eU	C	U	0.6		0	0	---	---	-	-		false	false	false	A	G
+cp	-	28541	psbKeU83SF	C	U	0.9	psbK	83	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	-	29796	29796eU	C	U	0.5		0	0	---	---	-	-		false	false	false	A	A
+cp	-	30676	30676eU	C	U	0.4		0	0	---	---	-	-		false	false	false	A	A
+cp	+	33506	matKeU189FF	C	U	0.2	matK	189	3	TTC	UUU	F	F	true	false	false	false	U	A
+cp	-	33571	33571eU	C	U	0.6		0	0	---	---	-	-		false	false	false	C	A
+cp	+	34576	matKeU1259PL	C	U	0.7	matK	1259	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	+	34944	matKeU1627Q*	C	U	0.8	matK	1627	1	CAA	UAA	Q	*	false	false	true	false	A	A
+cp	+	41982	41982eU	C	U	0.7		0	0	---	---	-	-		false	false	false	U	A
+cp	+	42835	42835eU	C	U	0.2		0	0	---	---	-	-		false	false	false	U	A
+cp	+	43357	psbDeU2TM	C	U	0.9	psbD	2	2	ACG	AUG	T	M	false	true	false	false	A	G
+cp	+	43723	psbDeU368SL	C	U	0.9	psbD	368	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	43732	psbDeU377SF	C	U	0.9	psbD	377	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	+	43738	psbDeU383SL	C	U	0.9	psbD	383	2	TCG	UUG	S	L	false	false	false	false	U	G
+cp	+	43816	psbDeU461SF	C	U	0.9	psbD	461	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	+	43831	psbDeU476PL	C	U	1.0	psbD	476	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	43987	psbDeU632SL	C	U	0.9	psbD	632	2	TCG	UUG	S	L	false	false	false	false	U	G
+cp	+	44230	psbDeU875SL	C	U	1.0	psbD	875	2	TCG	UUG	S	L	false	false	false	false	U	G
+cp	+	44888	psbCeU488SL	C	U	1.0	psbC	488	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	45209	psbCeU809SF	C	U	0.9	psbC	809	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	+	46350	46350eU	C	U	0.0		0	0	---	---	-	-		false	false	false	G	A
+cp	+	46472	psbZeU35SL	C	U	0.9	psbZ	35	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	46483	psbZeU46PS	C	U	0.9	psbZ	46	1	CCA	UCA	P	S	false	false	false	false	U	C
+cp	+	46595	psbZeU158PL	C	U	0.9	psbZ	158	2	CCG	CUG	P	L	false	false	false	false	C	G
+cp	-	47548	rps14eU47PL	C	U	0.9	rps14	47	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	-	47595	47595eU	C	U	0.5		0	0	---	---	-	-		false	false	false	C	A
+cp	-	48123	psaBeU1882PS	C	U	0.9	psaB	1882	1	CCT	UCU	P	S	false	false	false	false	C	C
+cp	-	48629	psaBeU1376SF	C	U	0.9	psaB	1376	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	-	49653	psaBeU352PS	C	U	0.9	psaB	352	1	CCC	UCC	P	S	false	false	false	false	U	C
+cp	-	51464	psaAeU818SL	C	U	0.9	psaA	818	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	51990	psaAeU292HY	C	U	0.9	psaA	292	1	CAT	UAU	H	Y	false	false	false	false	U	A
+cp	-	52653	52653eU	C	U	0.3		0	0	---	---	-	-		false	false	false	C	A
+cp	-	53916	pafIeU226HY	C	U	0.8	pafI	226	1	CAT	UAU	H	Y	false	false	false	false	A	A
+cp	-	54770	pafIeU65SL	C	U	0.9	pafI	65	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	54773	pafIeU62TI	C	U	0.7	pafI	62	2	ACT	AUU	T	I	false	false	false	false	A	U
+cp	-	54860	54860eU	C	U	0.0		0	0	---	---	-	-		false	false	false	U	U
+cp	-	56245	rps4eU275PL	C	U	0.9	rps4	275	2	CCG	CUG	P	L	false	false	false	false	C	G
+cp	-	56260	rps4eU260SL	C	U	0.9	rps4	260	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	59381	ndhJeU473PL	C	U	0.6	ndhJ	473	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	-	59402	ndhJeU452SF	C	U	0.8	ndhJ	452	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	-	59511	ndhJeU343HY	C	U	0.5	ndhJ	343	1	CAT	UAU	H	Y	false	false	false	false	A	A
+cp	-	59701	ndhJeU153PP	C	U	0.4	ndhJ	153	3	CCC	CCU	P	P	true	false	false	false	C	C
+cp	-	59702	ndhJeU152PL	C	U	0.9	ndhJ	152	2	CCC	CUC	P	L	false	false	false	false	C	C
+cp	-	59711	ndhJeU143SF	C	U	0.7	ndhJ	143	2	TCC	UUC	S	F	false	false	false	false	U	C
+cp	-	59726	ndhJeU128PL	C	U	0.6	ndhJ	128	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	-	60271	ndhKeU449PL	C	U	0.9	ndhK	449	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	-	60514	ndhKeU206SF	C	U	0.8	ndhK	206	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	-	60640	ndhKeU80SL	C	U	0.0	ndhK	80	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	60649	ndhKeU71SL	C	U	0.3	ndhK	71	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	60661	ndhKeU59PL	C	U	0.1	ndhK	59	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	-	60707	ndhKeU13HY	C	U	0.2	ndhK	13	1	CAC	UAC	H	Y	false	false	false	false	C	A
+cp	-	60712	ndhCeU361Q*	C	U	0.7	ndhC	361	1	CAG	UAG	Q	*	false	false	true	false	C	A
+cp	-	60713	ndhCeU360SS	C	U	0.1	ndhC	360	3	TCC	UCU	S	S	true	false	false	false	C	C
+cp	-	60723	ndhCeU350SL	C	U	0.7	ndhC	350	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	60758	ndhCeU315II	C	U	0.5	ndhC	315	3	ATC	AUU	I	I	true	false	false	false	U	G
+cp	-	60762	ndhCeU311PL	C	U	0.8	ndhC	311	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	-	60768	ndhCeU305TI	C	U	0.3	ndhC	305	2	ACA	AUA	T	I	false	false	false	false	A	A
+cp	-	60780	ndhCeU293SL	C	U	0.7	ndhC	293	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	60792	ndhCeU281SF	C	U	0.7	ndhC	281	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	-	60815	ndhCeU258FF	C	U	0.7	ndhC	258	3	TTC	UUU	F	F	true	false	false	false	U	A
+cp	-	60837	ndhCeU236PL	C	U	0.9	ndhC	236	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	-	60861	ndhCeU212TI	C	U	0.8	ndhC	212	2	ACT	AUU	T	I	false	false	false	false	A	U
+cp	-	60873	ndhCeU200SL	C	U	0.8	ndhC	200	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	60999	ndhCeU74PL	C	U	0.8	ndhC	74	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	-	63018	atpBeU1108PS	C	U	0.9	atpB	1108	1	CCT	UCU	P	S	false	false	false	false	U	C
+cp	-	63266	atpBeU860SL	C	U	0.9	atpB	860	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	63656	atpBeU470SL	C	U	0.9	atpB	470	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	63799	atpBeU327FF	C	U	0.6	atpB	327	3	TTC	UUU	F	F	true	false	false	false	U	A
+cp	+	65266	rbcLeU485SL	C	U	0.9	rbcL	485	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	65980	rbcLeU1199SL	C	U	1.0	rbcL	1199	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	65986	rbcLeU1205SF	C	U	1.0	rbcL	1205	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	+	66145	rbcLeU1364SL	C	U	1.0	rbcL	1364	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	66944	accDeU62TI	C	U	0.8	accD	62	2	ACT	AUU	T	I	false	false	false	false	A	U
+cp	+	67208	accDeU326SF	C	U	0.8	accD	326	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	+	67298	accDeU416PL	C	U	0.8	accD	416	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	67388	accDeU506PL	C	U	0.8	accD	506	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	+	67592	accDeU710TM	C	U	0.7	accD	710	2	ACG	AUG	T	M	false	false	false	false	A	G
+cp	+	68212	psaIeU17SL	C	U	0.9	psaI	17	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	68886	pafIIeU227PL	C	U	0.9	pafII	227	2	CCC	CUC	P	L	false	false	false	false	C	C
+cp	+	68887	pafIIeU228PP	C	U	0.5	pafII	228	3	CCC	CCU	P	P	true	false	false	false	C	A
+cp	+	69066	pafIIeU407TI	C	U	0.3	pafII	407	2	ACT	AUU	T	I	false	false	false	false	A	U
+cp	+	69494	cemAeU65SL	C	U	0.6	cemA	65	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	70466	cemAeU1037SL	C	U	0.8	cemA	1037	2	TCG	UUG	S	L	false	false	false	false	U	G
+cp	-	70470	70470eU	C	U	0.3		0	0	---	---	-	-		false	false	false	U	U
+cp	-	70485	70485eU	C	U	0.2		0	0	---	---	-	-		false	false	false	C	A
+cp	+	70498	cemAeU1069RW	C	U	0.8	cemA	1069	1	CGG	UGG	R	W	false	false	false	false	A	G
+cp	+	70529	cemAeU1100SL	C	U	0.2	cemA	1100	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	70664	cemAeU1235PL	C	U	0.9	cemA	1235	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	70784	cemAeU1355SL	C	U	0.7	cemA	1355	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	70838	cemAeU1409SF	C	U	0.8	cemA	1409	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	+	70907	cemAeU1478SL	C	U	0.8	cemA	1478	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	71226	71226eU	C	U	0.8		0	0	---	---	-	-		false	false	false	C	A
+cp	+	72065	petAeU839PL	C	U	0.9	petA	839	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	+	72103	petAeU877LF	C	U	0.9	petA	877	1	CTC	UUC	L	F	false	false	false	false	C	U
+cp	-	72847	psbJeU87SS	C	U	0.8	psbJ	87	3	TCC	UCU	S	S	true	false	false	false	C	U
+cp	-	72848	psbJeU86SF	C	U	0.9	psbJ	86	2	TCC	UUC	S	F	false	false	false	false	U	C
+cp	-	72851	psbJeU83SF	C	U	0.9	psbJ	83	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	-	72874	psbJeU60LL	C	U	0.7	psbJ	60	3	CTC	CUU	L	L	true	false	false	false	U	G
+cp	-	73238	psbFeU80SF	C	U	0.9	psbF	80	2	TCC	UUC	S	F	false	false	false	false	U	C
+cp	+	75155	petLeU50SL	C	U	0.9	petL	50	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	75161	petLeU56SL	C	U	0.9	petL	56	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	75164	petLeU59TI	C	U	0.9	petL	59	2	ACT	AUU	T	I	false	false	false	false	A	U
+cp	+	75166	petLeU61PS	C	U	0.2	petL	61	1	CCA	UCA	P	S	false	false	false	false	U	C
+cp	+	75167	petLeU62PL	C	U	0.9	petL	62	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	75385	petGeU32SL	C	U	0.8	petG	32	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	75391	petGeU38SL	C	U	0.9	petG	38	2	TCG	UUG	S	L	false	false	false	false	U	G
+cp	+	75415	petGeU62SL	C	U	0.9	petG	62	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	75433	petGeU80SL	C	U	0.9	petG	80	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	75544	75544eU	C	U	0.3		0	0	---	---	-	-		false	false	false	U	U
+cp	+	76292	76292eU	C	U	0.1		0	0	---	---	-	-		false	false	false	U	A
+cp	+	76438	psaJeU77PL	C	U	0.9	psaJ	77	2	CCG	CUG	P	L	false	false	false	false	C	G
+cp	+	77257	rps18eU197SL	C	U	0.8	rps18	197	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	77263	rps18eU203PL	C	U	0.9	rps18	203	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	77266	rps18eU206SL	C	U	0.9	rps18	206	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	77630	rpl20eU269SL	C	U	0.9	rpl20	269	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	80548	clpP1eU536TM	C	U	0.9	clpP1	536	2	ACG	AUG	T	M	false	false	false	false	A	G
+cp	-	81400	clpP1eU314SF	C	U	0.9	clpP1	314	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	-	81509	clpP1eU205PS	C	U	0.8	clpP1	205	1	CCC	UCC	P	S	false	false	false	false	U	C
+cp	-	81553	clpP1eU161PL	C	U	0.8	clpP1	161	2	CCG	CUG	P	L	false	false	false	false	C	G
+cp	+	83737	psbBeU243TT	C	U	0.1	psbB	243	3	ACC	ACU	T	T	true	false	false	false	C	G
+cp	+	84789	psbBeU1295SF	C	U	0.9	psbB	1295	2	TCC	UUC	S	F	false	false	false	false	U	C
+cp	+	84790	psbBeU1296SS	C	U	0.1	psbB	1296	3	TCC	UCU	S	S	true	false	false	false	C	G
+cp	+	84913	psbBeU1419TT	C	U	0.1	psbB	1419	3	ACC	ACU	T	T	true	false	false	false	C	U
+cp	+	84951	psbBeU1457SL	C	U	0.9	psbB	1457	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	84969	psbBeU1475SF	C	U	0.9	psbB	1475	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	+	85246	psbTeU65SF	C	U	0.9	psbT	65	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	+	85813	psbHeU149SF	C	U	0.9	psbH	149	2	TCC	UUC	S	F	false	false	false	false	U	C
+cp	+	85814	psbHeU150SS	C	U	0.5	psbH	150	3	TCC	UCU	S	S	true	false	false	false	C	G
+cp	+	85825	psbHeU161SL	C	U	0.9	psbH	161	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	85856	psbHeU192SS	C	U	0.7	psbH	192	3	TCC	UCU	S	S	true	false	false	false	C	G
+cp	+	85861	psbHeU197PL	C	U	0.9	psbH	197	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	85874	psbHeU210II	C	U	0.8	psbH	210	3	ATC	AUU	I	I	true	false	false	false	U	C
+cp	+	85905	85905eU	C	U	0.9		0	0	---	---	-	-		false	false	false	U	A
+cp	+	85918	85918eU	C	U	0.9		0	0	---	---	-	-		false	false	false	C	A
+cp	+	87287	petBeU392SF	C	U	0.9	petB	392	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	+	87467	petBeU572SL	C	U	0.9	petB	572	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	87748	87748eU	C	U	0.9		0	0	---	---	-	-		false	false	false	U	A
+cp	+	88302	petDeU554	C	U	0.1	petD	554	0	---	---	-	-		false	false	false	U	G
+cp	+	88558	petDeU41SL	C	U	0.9	petD	41	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	88636	petDeU119SF	C	U	0.9	petD	119	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	+	88939	petDeU422PL	C	U	0.9	petD	422	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	+	88963	petDeU446SL	C	U	0.9	petD	446	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	89718	rpoAeU625RW	C	U	0.7	rpoA	625	1	CGG	UGG	R	W	false	false	false	false	A	G
+cp	-	90062	rpoAeU281SL	C	U	0.7	rpoA	281	2	TCG	UUG	S	L	false	false	false	false	U	G
+cp	-	90494	rps11eU302SL	C	U	0.9	rps11	302	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	90632	rps11eU164SF	C	U	0.9	rps11	164	2	TCC	UUC	S	F	false	false	false	false	U	C
+cp	-	90982	rpl36eU79RC	C	U	0.9	rpl36	79	1	CGT	UGU	R	C	false	false	false	false	U	G
+cp	-	91059	rpl36eU2TM	C	U	0.9	rpl36	2	2	ACG	AUG	T	M	false	true	false	false	A	G
+cp	-	91576	rps8eU335TI	C	U	0.6	rps8	335	2	ACC	AUC	T	I	false	false	false	false	A	C
+cp	-	91594	rps8eU317PL	C	U	0.9	rps8	317	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	-	92158	rpl14eU317SL	C	U	0.8	rpl14	317	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	92342	92342eU	C	U	0.4		0	0	---	---	-	-		false	false	false	C	C
+cp	-	92347	rpl14eU128AV	C	U	0.9	rpl14	128	2	GCT	GUU	A	V	false	false	false	false	G	U
+cp	-	92371	rpl14eU104TI	C	U	0.8	rpl14	104	2	ACT	AUU	T	I	false	false	false	false	A	U
+cp	-	92419	rpl14eU56PL	C	U	0.9	rpl14	56	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	-	94192	rps3eU635TI	C	U	0.8	rps3	635	2	ACA	AUA	T	I	false	false	false	false	A	A
+cp	-	94483	rps3eU344SL	C	U	0.9	rps3	344	2	TCG	UUG	S	L	false	false	false	false	U	G
+cp	-	109593	ndhFeU2123SL	C	U	0.9	ndhF	2123	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	109653	ndhFeU2063SL	C	U	0.8	ndhF	2063	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	109884	ndhFeU1832PL	C	U	0.8	ndhF	1832	2	CCG	CUG	P	L	false	false	false	false	C	G
+cp	-	109890	ndhFeU1826SF	C	U	0.8	ndhF	1826	2	TCC	UUC	S	F	false	false	false	false	U	C
+cp	-	109896	ndhFeU1820TI	C	U	0.9	ndhF	1820	2	ACT	AUU	T	I	false	false	false	false	A	U
+cp	-	110103	ndhFeU1613TI	C	U	0.6	ndhF	1613	2	ACA	AUA	T	I	false	false	false	false	A	A
+cp	-	110356	ndhFeU1360LF	C	U	0.8	ndhF	1360	1	CTC	UUC	L	F	false	false	false	false	U	U
+cp	-	110642	ndhFeU1074PP	C	U	0.5	ndhF	1074	3	CCC	CCU	P	P	true	false	false	false	C	G
+cp	-	110643	ndhFeU1073PL	C	U	0.7	ndhF	1073	2	CCC	CUC	P	L	false	false	false	false	C	C
+cp	-	110646	ndhFeU1070SF	C	U	0.8	ndhF	1070	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	-	110649	ndhFeU1067SL	C	U	0.8	ndhF	1067	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	110662	ndhFeU1054PS	C	U	0.9	ndhF	1054	1	CCT	UCU	P	S	false	false	false	false	U	C
+cp	-	110688	ndhFeU1028SL	C	U	0.9	ndhF	1028	2	TCG	UUG	S	L	false	false	false	false	U	G
+cp	-	110808	ndhFeU908SL	C	U	0.9	ndhF	908	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	110928	ndhFeU788PL	C	U	0.9	ndhF	788	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	-	111015	ndhFeU701PL	C	U	0.8	ndhF	701	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	-	111033	ndhFeU683PL	C	U	0.9	ndhF	683	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	-	111101	ndhFeU615FF	C	U	0.2	ndhF	615	3	TTC	UUU	F	F	true	false	false	false	U	G
+cp	-	111135	ndhFeU581SL	C	U	0.9	ndhF	581	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	111144	ndhFeU572SL	C	U	0.9	ndhF	572	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	111324	ndhFeU392SF	C	U	0.9	ndhF	392	2	TCC	UUC	S	F	false	false	false	false	U	C
+cp	-	111388	ndhFeU328HY	C	U	0.8	ndhF	328	1	CAC	UAC	H	Y	false	false	false	false	U	A
+cp	-	111453	ndhFeU263PL	C	U	0.8	ndhF	263	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	112686	rpl32eU98SL	C	U	0.5	rpl32	98	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	114085	ccsAeU204FF	C	U	0.8	ccsA	204	3	TTC	UUU	F	F	true	false	false	false	U	A
+cp	+	114348	ccsAeU467PL	C	U	0.9	ccsA	467	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	+	114381	ccsAeU500PL	C	U	0.9	ccsA	500	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	114597	ccsAeU716SL	C	U	0.9	ccsA	716	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	+	114781	ccsAeU900FF	C	U	0.3	ccsA	900	3	TTC	UUU	F	F	true	false	false	false	U	A
+cp	+	114813	ccsAeU932PL	C	U	0.9	ccsA	932	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	+	114816	ccsAeU935SL	C	U	0.9	ccsA	935	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	115331	ndhDeU1289SL	C	U	0.9	ndhD	1289	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	115409	ndhDeU1211PL	C	U	0.9	ndhD	1211	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	-	115421	ndhDeU1199SL	C	U	0.9	ndhD	1199	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	115574	ndhDeU1046SF	C	U	0.9	ndhD	1046	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	-	115580	ndhDeU1040PL	C	U	0.9	ndhD	1040	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	-	115616	ndhDeU1004SL	C	U	0.9	ndhD	1004	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	115712	ndhDeU908SL	C	U	0.8	ndhD	908	2	TCG	UUG	S	L	false	false	false	false	U	G
+cp	-	116264	ndhDeU356SL	C	U	0.9	ndhD	356	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	116267	ndhDeU353SF	C	U	0.9	ndhD	353	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	-	116618	ndhDeU2TM	C	U	0.2	ndhD	2	2	ACG	AUG	T	M	false	true	false	false	A	G
+cp	-	117429	ndhEeU230SL	C	U	0.9	ndhE	230	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	117873	ndhGeU467PL	C	U	0.9	ndhG	467	2	CCG	CUG	P	L	false	false	false	false	C	G
+cp	-	117888	ndhGeU452SL	C	U	0.9	ndhG	452	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	118029	ndhGeU311SL	C	U	0.7	ndhG	311	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	118219	ndhGeU121PS	C	U	0.7	ndhG	121	1	CCT	UCU	P	S	false	false	false	false	U	C
+cp	-	118242	ndhGeU98TI	C	U	0.9	ndhG	98	2	ACA	AUA	T	I	false	false	false	false	A	A
+cp	-	118260	ndhGeU80SF	C	U	0.8	ndhG	80	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	-	119168	ndhAeU1106TI	C	U	0.7	ndhA	1106	2	ACA	AUA	T	I	false	false	false	false	A	A
+cp	-	119195	ndhAeU1079PL	C	U	0.9	ndhA	1079	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	-	119459	ndhAeU815AV	C	U	0.6	ndhA	815	2	GCA	GUA	A	V	false	false	false	false	G	A
+cp	-	119462	ndhAeU812SF	C	U	0.7	ndhA	812	2	TCT	UUU	S	F	false	false	false	false	U	U
+cp	-	119486	ndhAeU788PL	C	U	0.9	ndhA	788	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	-	119648	ndhAeU626SL	C	U	0.8	ndhA	626	2	TCA	UUA	S	L	false	false	false	false	U	A
+cp	-	120167	ndhAeU990	C	U	0.1	ndhA	990	0	---	---	-	-		false	false	false	C	U
+cp	-	120810	ndhAeU347AV	C	U	0.9	ndhA	347	2	GCG	GUG	A	V	false	false	false	false	G	G
+cp	-	121160	ndhHeU1180R*	C	U	0.8	ndhH	1180	1	CGA	UGA	R	*	false	false	true	false	U	G
+cp	-	121180	ndhHeU1160TI	C	U	0.9	ndhH	1160	2	ACT	AUU	T	I	false	false	false	false	A	U
+cp	-	121537	ndhHeU803TM	C	U	0.9	ndhH	803	2	ACG	AUG	T	M	false	false	false	false	A	G
+cp	-	121589	ndhHeU751RW	C	U	0.9	ndhH	751	1	CGG	UGG	R	W	false	false	false	false	A	G
+cp	-	121765	ndhHeU575PL	C	U	0.9	ndhH	575	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	-	121921	ndhHeU419TM	C	U	0.9	ndhH	419	2	ACG	AUG	T	M	false	false	false	false	A	G
+cp	-	122023	ndhHeU317PL	C	U	0.9	ndhH	317	2	CCA	CUA	P	L	false	false	false	false	C	A
+cp	-	128097	ycf1eU128PL	C	U	0.9	ycf1	128	2	CCT	CUU	P	L	false	false	false	false	C	U
+cp	-	128223	ycf1eU2TM	C	U	0.2	ycf1	2	2	ACG	AUG	T	M	false	true	false	false	A	G
+cp	+	130690	130690eU	C	U	0.5		0	0	---	---	-	-		false	false	false	A	U
+cp	+	130955	130955eU	C	U	0.8	ndhF-2	110	0	---	---	-	-		false	false	false	C	A
+cp	+	131020	131020eU	C	U	0.8	ndhF-2	175	0	---	---	-	-		false	false	false	U	A
+cp	+	131084	131084eU	C	U	0.9	ndhF-2	239	0	---	---	-	-		false	false	false	U	C
+cp	+	131264	131264eU	C	U	0.9	ndhF-2	419	0	---	---	-	-		false	false	false	U	A
+cp	+	131273	131273eU	C	U	0.9	ndhF-2	428	0	---	---	-	-		false	false	false	U	A
+cp	+	131307	131307eU	C	U	0.2	ndhF-2	462	0	---	---	-	-		false	false	false	U	G
+cp	+	131375	131375eU	C	U	0.9	ndhF-2	530	0	---	---	-	-		false	false	false	C	U
+cp	+	131393	131393eU	C	U	0.8	ndhF-2	548	0	---	---	-	-		false	false	false	C	U
+cp	+	131480	131480eU	C	U	0.9	ndhF-2	635	0	---	---	-	-		false	false	false	C	U
+cp	+	131600	131600eU	C	U	0.9	ndhF-2	755	0	---	---	-	-		false	false	false	U	A
+cp	+	131720	131720eU	C	U	0.9	ndhF-2	875	0	---	---	-	-		false	false	false	U	G
+cp	+	131746	131746eU	C	U	0.9	ndhF-2	901	0	---	---	-	-		false	false	false	U	C
+cp	+	131759	131759eU	C	U	0.8	ndhF-2	914	0	---	---	-	-		false	false	false	U	A
+cp	+	131762	131762eU	C	U	0.8	ndhF-2	917	0	---	---	-	-		false	false	false	U	U
+cp	+	131765	131765eU	C	U	0.7	ndhF-2	920	0	---	---	-	-		false	false	false	C	C
+cp	+	131766	131766eU	C	U	0.5	ndhF-2	921	0	---	---	-	-		false	false	false	C	G
+cp	+	132052	132052eU	C	U	0.8	ndhF-2	1207	0	---	---	-	-		false	false	false	U	U
+cp	+	132305	132305eU	C	U	0.6	ndhF-2	1460	0	---	---	-	-		false	false	false	A	A
+cp	+	132512	132512eU	C	U	0.9	ndhF-2	1667	0	---	---	-	-		false	false	false	A	U
+cp	+	132518	132518eU	C	U	0.8	ndhF-2	1673	0	---	---	-	-		false	false	false	U	C
+cp	+	132524	132524eU	C	U	0.8	ndhF-2	1679	0	---	---	-	-		false	false	false	C	G
+cp	+	132755	132755eU	C	U	0.8	ndhF-2	1910	0	---	---	-	-		false	false	false	U	A
+cp	+	132815	132815eU	C	U	0.9	ndhF-2	1970	0	---	---	-	-		false	false	false	U	A
