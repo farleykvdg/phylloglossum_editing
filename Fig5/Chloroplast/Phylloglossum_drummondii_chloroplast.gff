@@ -1,0 +1,713 @@
+##gff-version 3
+##source-version geneious 2023.2.1
+##sequence-region	Phylloglossum_drummondii_chloroplast	1	144520
+Phylloglossum_drummondii_chloroplast	Geneious	region	1	144520	.	+	0	Is_circular=true
+Phylloglossum_drummondii_chloroplast	Chloe	gene	290	1007	.	+	.	Name=rps12B;ID=rps12B
+Phylloglossum_drummondii_chloroplast	Chloe	intron	290	749	.	+	.	gene=rps12B;ID=rps12B/1/intron/1;Parent=rps12B
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	737	737	1.02E-295	+	.	note=C to U RNA editing (frequency 0.87)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	750	1007	.	+	0	codon_start=1;gene=rps12B;ID=rps12B/1/CDS/2;Parent=rps12B
+Phylloglossum_drummondii_chloroplast	Chloe	gene	1060	1512	.	+	.	Name=rps7;ID=rps7
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	1060	1512	.	+	0	codon_start=1;gene=rps7;ID=rps7/1/CDS/1;Parent=rps7.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	1060	1512	.	+	.	gene=rps7;ID=rps7.mRNA;Parent=rps7
+Phylloglossum_drummondii_chloroplast	Chloe	gene	1784	3947	.	+	.	Name=ndhB;ID=ndhB
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	1784	2509	.	+	0	codon_start=1;gene=ndhB;ID=ndhB/1/CDS/1;Parent=ndhB.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	1784	3947	.	+	.	gene=ndhB;ID=ndhB.mRNA;Parent=ndhB
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	2178	2178	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	2430	2430	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Chloe	intron	2510	3188	.	+	.	gene=ndhB;ID=ndhB/1/intron/2;Parent=ndhB.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	3189	3947	.	+	0	codon_start=1;gene=ndhB;ID=ndhB/1/CDS/3;Parent=ndhB.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	3241	3241	.	+	.	note=C to U RNA editing (frequency 0.88)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	3260	3260	.	+	.	note=C to U RNA editing (frequency 0.73)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	3262	3262	.	+	.	note=C to U RNA editing (frequency 0.79)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	3574	3574	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	3607	3607	.	+	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	3974	3974	5.03E-73	+	.	note=C to U RNA editing (frequency 0.24)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	4759	4839	.	+	.	Name=trnL-CAA;ID=trnL-CAA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	4759	4839	.	+	.	gene=trnL-CAA;ID=trnL-CAA/1/tRNA/1;Parent=trnL-CAA.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	4759	4839	.	+	.	gene=trnL-CAA;ID=trnL-CAA.tRNA;Parent=trnL-CAA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	5220	5324	.	+	.	gene=psbM;ID=psbM.mRNA;Parent=psbM
+Phylloglossum_drummondii_chloroplast	Chloe	gene	5220	5324	.	+	.	Name=psbM;ID=psbM
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	5220	5324	.	+	0	codon_start=1;gene=psbM;ID=psbM/1/CDS/1;Parent=psbM.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	5944	6033	.	-	.	gene=petN;ID=petN.mRNA;Parent=petN
+Phylloglossum_drummondii_chloroplast	Chloe	gene	5944	6033	.	-	.	Name=petN;ID=petN
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	5944	6033	.	-	0	codon_start=1;gene=petN;ID=petN/1/CDS/1;Parent=petN.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	5990	5990	.	-	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_chloroplast	Chloe	exon	6530	6600	.	-	.	gene=trnC-GCA;ID=trnC-GCA/1/tRNA/1;Parent=trnC-GCA.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	6530	6600	.	-	.	Name=trnC-GCA;ID=trnC-GCA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	6530	6600	.	-	.	gene=trnC-GCA;ID=trnC-GCA.tRNA;Parent=trnC-GCA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	7006	10287	.	+	.	Name=rpoB;ID=rpoB
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	7006	10287	.	+	.	gene=rpoB;ID=rpoB.mRNA;Parent=rpoB
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	7006	10287	.	+	0	codon_start=1;gene=rpoB;ID=rpoB/1/CDS/1;Parent=rpoB.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	10366	13136	.	+	.	gene=rpoC1;ID=rpoC1.mRNA;Parent=rpoC1
+Phylloglossum_drummondii_chloroplast	Chloe	gene	10366	13136	.	+	.	Name=rpoC1;ID=rpoC1
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	10366	10800	.	+	0	codon_start=1;gene=rpoC1;ID=rpoC1/1/CDS/1;Parent=rpoC1.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	intron	10801	11534	.	+	.	gene=rpoC1;ID=rpoC1/1/intron/2;Parent=rpoC1.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	11535	13136	.	+	0	codon_start=1;gene=rpoC1;ID=rpoC1/1/CDS/3;Parent=rpoC1.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	12090	12090	.	+	.	note=C to U RNA editing (frequency 0.71)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	12155	12155	2.94E-139	+	.	note=C to U RNA editing (frequency 0.22)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	13359	18809	.	+	.	Name=rpoC2;ID=rpoC2
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	13359	18809	.	+	.	gene=rpoC2;ID=rpoC2.mRNA;Parent=rpoC2
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	13359	18809	.	+	0	codon_start=1;gene=rpoC2;ID=rpoC2/1/CDS/1;Parent=rpoC2.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	15795	15795	2.59E-216	-	.	note=C to U RNA editing (frequency 0.79)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	18932	19639	.	+	.	gene=rps2;ID=rps2.mRNA;Parent=rps2
+Phylloglossum_drummondii_chloroplast	Chloe	gene	18932	19639	.	+	.	Name=rps2;ID=rps2
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	18932	19639	.	+	0	codon_start=1;gene=rps2;ID=rps2/1/CDS/1;Parent=rps2.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	19092	19092	.	+	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	19110	19110	.	+	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	19146	19146	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	19153	19153	.	+	.	note=C to U RNA editing (frequency 0.42)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	19182	19182	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	19428	19428	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	19584	19584	.	+	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	19880	19880	3.83E-106	+	.	note=C to U RNA editing (frequency 0.12)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	19907	20674	.	+	0	codon_start=1;gene=atpI;ID=atpI/1/CDS/1;Parent=atpI.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	19907	20674	.	+	.	Name=atpI;ID=atpI
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	19907	20674	.	+	.	gene=atpI;ID=atpI.mRNA;Parent=atpI
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	19908	19908	.	+	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	20052	20052	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	20130	20130	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	20286	20286	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	20526	20526	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	20648	20648	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	21498	21743	.	+	.	Name=atpH;ID=atpH
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	21498	21743	.	+	0	codon_start=1;gene=atpH;ID=atpH/1/CDS/1;Parent=atpH.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	21498	21743	.	+	.	gene=atpH;ID=atpH.mRNA;Parent=atpH
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	21562	21562	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	22115	22259	.	+	0	codon_start=1;gene=atpF;ID=atpF/1/CDS/1;Parent=atpF.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	22115	23349	.	+	.	Name=atpF;ID=atpF
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	22115	23349	.	+	.	gene=atpF;ID=atpF.mRNA;Parent=atpF
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	22215	22215	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	22233	22233	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Chloe	intron	22260	22936	.	+	.	gene=atpF;ID=atpF/1/intron/2;Parent=atpF.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	22904	22904	.	+	.	note=C to U RNA editing (frequency 0.71)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	22937	23349	.	+	2	codon_start=3;gene=atpF;ID=atpF/1/CDS/3;Parent=atpF.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	23393	24916	.	+	.	Name=atpA;ID=atpA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	23393	24916	.	+	0	codon_start=1;gene=atpA;ID=atpA/1/CDS/1;Parent=atpA.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	23393	24916	.	+	.	gene=atpA;ID=atpA.mRNA;Parent=atpA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	23559	23559	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	23586	23586	.	+	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	24141	24141	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	24441	24441	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	24442	24442	.	+	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	24738	24738	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	24861	24861	.	+	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_chloroplast	Chloe	exon	25077	25148	.	-	.	gene=trnR-UCU;ID=trnR-UCU/1/tRNA/1;Parent=trnR-UCU.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	25077	25148	.	-	.	Name=trnR-UCU;ID=trnR-UCU
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	25077	25148	.	-	.	gene=trnR-UCU;ID=trnR-UCU.tRNA;Parent=trnR-UCU
+Phylloglossum_drummondii_chloroplast	Chloe	gene	25813	26682	.	-	.	Name=trnG-UCC;ID=trnG-UCC
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	25813	26682	.	-	.	gene=trnG-UCC;ID=trnG-UCC.tRNA;Parent=trnG-UCC
+Phylloglossum_drummondii_chloroplast	Chloe	exon	25813	25860	.	-	.	gene=trnG-UCC;ID=trnG-UCC/1/tRNA/3;Parent=trnG-UCC.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	intron	25861	26659	.	-	.	gene=trnG-UCC;ID=trnG-UCC/1/intron/2;Parent=trnG-UCC.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	26660	26682	.	-	.	gene=trnG-UCC;ID=trnG-UCC/1/tRNA/1;Parent=trnG-UCC.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	26859	26960	.	-	.	gene=psb30;ID=psb30.mRNA;Parent=psb30
+Phylloglossum_drummondii_chloroplast	Chloe	gene	26859	26960	.	-	.	Name=psb30;ID=psb30
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	26859	26960	.	-	0	codon_start=1;gene=psb30;ID=psb30/1/CDS/1;Parent=psb30.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	26887	26887	.	-	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	27248	27248	.	-	.	note=C to U RNA editing (frequency 0.67)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	27287	27385	.	+	.	Name=psaM;ID=psaM
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	27287	27385	.	+	0	codon_start=1;gene=psaM;ID=psaM/1/CDS/1;Parent=psaM.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	27287	27385	.	+	.	gene=psaM;ID=psaM.mRNA;Parent=psaM
+Phylloglossum_drummondii_chloroplast	Chloe	gene	27632	27718	.	+	.	Name=trnS-GCU;ID=trnS-GCU
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	27632	27718	.	+	.	gene=trnS-GCU;ID=trnS-GCU.tRNA;Parent=trnS-GCU
+Phylloglossum_drummondii_chloroplast	Chloe	exon	27632	27718	.	+	.	gene=trnS-GCU;ID=trnS-GCU/1/tRNA/1;Parent=trnS-GCU.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	27798	27908	.	-	.	gene=psbI;ID=psbI.mRNA;Parent=psbI
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	27798	27908	.	-	0	codon_start=1;gene=psbI;ID=psbI/1/CDS/1;Parent=psbI.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	27798	27908	.	-	.	Name=psbI;ID=psbI
+Phylloglossum_drummondii_chloroplast	Chloe	gene	28453	28623	.	-	.	Name=psbK;ID=psbK
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	28453	28623	.	-	0	codon_start=1;gene=psbK;ID=psbK/1/CDS/1;Parent=psbK.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	28453	28623	.	-	.	gene=psbK;ID=psbK.mRNA;Parent=psbK
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	28541	28541	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	29087	29158	.	+	.	gene=trnQ-UUG;ID=trnQ-UUG.tRNA;Parent=trnQ-UUG
+Phylloglossum_drummondii_chloroplast	Chloe	exon	29087	29158	.	+	.	gene=trnQ-UUG;ID=trnQ-UUG/1/tRNA/1;Parent=trnQ-UUG.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	29087	29158	.	+	.	Name=trnQ-UUG;ID=trnQ-UUG
+Phylloglossum_drummondii_chloroplast	Geneious	gene	29201	30738	.	+	.	Name=chlB pseudogene;modified by=farle
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	29796	29796	1.6E-314	-	.	note=C to U RNA editing (frequency 0.51)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	30676	30676	3.26E-86	-	.	note=C to U RNA editing (frequency 0.44)
+Phylloglossum_drummondii_chloroplast	Geneious	gene	30996	31951	.	+	.	Name=rps16 pseudogene;created by=farle
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	32581	35127	.	+	.	gene=trnK-UUU;ID=trnK-UUU.tRNA;Parent=trnK-UUU
+Phylloglossum_drummondii_chloroplast	Chloe	gene	32581	35127	.	+	.	Name=trnK-UUU;ID=trnK-UUU
+Phylloglossum_drummondii_chloroplast	Chloe	exon	32581	32617	.	+	.	gene=trnK-UUU;ID=trnK-UUU/1/tRNA/1;Parent=trnK-UUU.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	intron	32618	35092	.	+	.	gene=trnK-UUU;ID=trnK-UUU/1/intron/2;Parent=trnK-UUU.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	33318	34988	.	+	.	Name=matK;ID=matK
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	33318	34988	.	+	.	gene=matK;ID=matK.mRNA;Parent=matK
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	33318	34988	.	+	0	codon_start=1;gene=matK;ID=matK/1/CDS/1;Parent=matK.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	33506	33506	.	+	.	note=C to U RNA editing (frequency 0.23)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	33571	33571	3.36E-228	-	.	note=C to U RNA editing (frequency 0.69)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	34576	34576	.	+	.	note=C to U RNA editing (frequency 0.79)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	34944	34944	.	+	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_chloroplast	Chloe	exon	35093	35127	.	+	.	gene=trnK-UUU;ID=trnK-UUU/1/tRNA/3;Parent=trnK-UUU.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	35455	36516	.	+	.	Name=psbA;ID=psbA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	35455	36516	.	+	0	codon_start=1;gene=psbA;ID=psbA/1/CDS/1;Parent=psbA.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	35455	36516	.	+	.	gene=psbA;ID=psbA.mRNA;Parent=psbA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	36738	36812	.	+	.	gene=trnH-GUG;ID=trnH-GUG/1/tRNA/1;Parent=trnH-GUG.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	36738	36812	.	+	.	Name=trnH-GUG;ID=trnH-GUG
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	36738	36812	.	+	.	gene=trnH-GUG;ID=trnH-GUG.tRNA;Parent=trnH-GUG
+Phylloglossum_drummondii_chloroplast	Chloe	gene	38120	40117	.	+	.	Name=ycf2;ID=ycf2
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	38120	40117	.	+	0	codon_start=1;gene=ycf2;ID=ycf2/1/CDS/1;Parent=ycf2.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	38120	40117	.	+	.	gene=ycf2;ID=ycf2.mRNA;Parent=ycf2
+Phylloglossum_drummondii_chloroplast	Chloe	gene	40386	40459	.	-	.	Name=trnD-GUC;ID=trnD-GUC
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	40386	40459	.	-	.	gene=trnD-GUC;ID=trnD-GUC.tRNA;Parent=trnD-GUC
+Phylloglossum_drummondii_chloroplast	Chloe	exon	40386	40459	.	-	.	gene=trnD-GUC;ID=trnD-GUC/1/tRNA/1;Parent=trnD-GUC.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	40588	40669	.	-	.	Name=trnY-GUA;ID=trnY-GUA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	40588	40669	.	-	.	gene=trnY-GUA;ID=trnY-GUA.tRNA;Parent=trnY-GUA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	40588	40669	.	-	.	gene=trnY-GUA;ID=trnY-GUA/1/tRNA/1;Parent=trnY-GUA.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	41115	41187	.	-	.	gene=trnE-UUC;ID=trnE-UUC/1/tRNA/1;Parent=trnE-UUC.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	41115	41187	.	-	.	Name=trnE-UUC;ID=trnE-UUC
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	41115	41187	.	-	.	gene=trnE-UUC;ID=trnE-UUC.tRNA;Parent=trnE-UUC
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	41982	41982	.	+	.	note=C to U RNA editing (frequency 0.76)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	42835	42835	.	+	.	note=C to U RNA editing (frequency 0.23)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	43356	44417	.	+	.	Name=psbD;ID=psbD
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	43356	44417	.	+	.	gene=psbD;ID=psbD.mRNA;Parent=psbD
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	43356	44417	.	+	0	codon_start=1;gene=psbD;ID=psbD/1/CDS/1;Parent=psbD.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	43357	43357	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	43723	43723	.	+	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	43732	43732	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	43738	43738	.	+	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	43816	43816	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	43831	43831	.	+	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	43987	43987	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	44230	44230	.	+	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	44401	45786	.	+	0	codon_start=1;gene=psbC;ID=psbC/1/CDS/1;Parent=psbC.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	44401	45786	.	+	.	gene=psbC;ID=psbC.mRNA;Parent=psbC
+Phylloglossum_drummondii_chloroplast	Chloe	gene	44401	45786	.	+	.	Name=psbC;ID=psbC
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	44888	44888	.	+	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	45209	45209	.	+	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	46005	46095	.	-	.	gene=trnS-UGA;ID=trnS-UGA.tRNA;Parent=trnS-UGA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	46005	46095	.	-	.	Name=trnS-UGA;ID=trnS-UGA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	46005	46095	.	-	.	gene=trnS-UGA;ID=trnS-UGA/1/tRNA/1;Parent=trnS-UGA.tRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	46350	46350	1.21E-4	+	.	note=C to U RNA editing (frequency 0.06)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	46438	46626	.	+	.	Name=psbZ;ID=psbZ
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	46438	46626	.	+	.	gene=psbZ;ID=psbZ.mRNA;Parent=psbZ
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	46438	46626	.	+	0	codon_start=1;gene=psbZ;ID=psbZ/1/CDS/1;Parent=psbZ.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	46472	46472	.	+	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	46483	46483	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	46595	46595	.	+	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	46873	46943	.	+	.	gene=trnG-GCC;ID=trnG-GCC.tRNA;Parent=trnG-GCC
+Phylloglossum_drummondii_chloroplast	Chloe	gene	46873	46943	.	+	.	Name=trnG-GCC;ID=trnG-GCC
+Phylloglossum_drummondii_chloroplast	Chloe	exon	46873	46943	.	+	.	gene=trnG-GCC;ID=trnG-GCC/1/tRNA/1;Parent=trnG-GCC.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	47074	47147	.	-	.	Name=trnfM-CAU;ID=trnfM-CAU
+Phylloglossum_drummondii_chloroplast	Chloe	exon	47074	47147	.	-	.	gene=trnfM-CAU;ID=trnfM-CAU/1/tRNA/1;Parent=trnfM-CAU.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	47074	47147	.	-	.	gene=trnfM-CAU;ID=trnfM-CAU.tRNA;Parent=trnfM-CAU
+Phylloglossum_drummondii_chloroplast	Chloe	gene	47292	47594	.	-	.	Name=rps14;ID=rps14
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	47292	47594	.	-	0	codon_start=1;gene=rps14;ID=rps14/1/CDS/1;Parent=rps14.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	47292	47594	.	-	.	gene=rps14;ID=rps14.mRNA;Parent=rps14
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	47548	47548	.	-	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	47595	47595	.	-	.	note=C to U RNA editing (frequency 0.51)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	47800	50004	.	-	0	codon_start=1;gene=psaB;ID=psaB/1/CDS/1;Parent=psaB.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	47800	50004	.	-	.	Name=psaB;ID=psaB
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	47800	50004	.	-	.	gene=psaB;ID=psaB.mRNA;Parent=psaB
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	48123	48123	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	48629	48629	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	49653	49653	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	50029	52281	.	-	0	codon_start=1;gene=psaA;ID=psaA/1/CDS/1;Parent=psaA.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	50029	52281	.	-	.	Name=psaA;ID=psaA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	50029	52281	.	-	.	gene=psaA;ID=psaA.mRNA;Parent=psaA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	51464	51464	.	-	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	51990	51990	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	52653	52653	8.65E-46	-	.	note=C to U RNA editing (frequency 0.35)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	52889	54834	.	-	.	gene=pafI;ID=pafI.mRNA;Parent=pafI
+Phylloglossum_drummondii_chloroplast	Chloe	gene	52889	54834	.	-	.	Name=pafI;ID=pafI
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	52889	53044	.	-	0	codon_start=1;gene=pafI;ID=pafI/1/CDS/5;Parent=pafI.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	intron	53045	53787	.	-	.	gene=pafI;ID=pafI/1/intron/4;Parent=pafI.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	53788	54017	.	-	2	codon_start=3;gene=pafI;ID=pafI/1/CDS/3;Parent=pafI.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	53916	53916	.	-	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_chloroplast	Chloe	intron	54018	54710	.	-	.	gene=pafI;ID=pafI/1/intron/2;Parent=pafI.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	54711	54834	.	-	0	codon_start=1;gene=pafI;ID=pafI/1/CDS/1;Parent=pafI.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	54770	54770	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	54773	54773	.	-	.	note=C to U RNA editing (frequency 0.77)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	54860	54860	1.99E-11	-	.	note=C to U RNA editing (frequency 0.08)
+Phylloglossum_drummondii_chloroplast	Chloe	exon	55455	55541	.	+	.	gene=trnS-GGA;ID=trnS-GGA/1/tRNA/1;Parent=trnS-GGA.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	55455	55541	.	+	.	gene=trnS-GGA;ID=trnS-GGA.tRNA;Parent=trnS-GGA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	55455	55541	.	+	.	Name=trnS-GGA;ID=trnS-GGA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	55911	56519	.	-	.	Name=rps4;ID=rps4
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	55911	56519	.	-	.	gene=rps4;ID=rps4.mRNA;Parent=rps4
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	55911	56519	.	-	0	codon_start=1;gene=rps4;ID=rps4/1/CDS/1;Parent=rps4.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	56245	56245	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	56260	56260	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	56837	56909	.	-	.	gene=trnT-UGU;ID=trnT-UGU.tRNA;Parent=trnT-UGU
+Phylloglossum_drummondii_chloroplast	Chloe	gene	56837	56909	.	-	.	Name=trnT-UGU;ID=trnT-UGU
+Phylloglossum_drummondii_chloroplast	Chloe	exon	56837	56909	.	-	.	gene=trnT-UGU;ID=trnT-UGU/1/tRNA/1;Parent=trnT-UGU.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	57249	57283	.	+	.	gene=trnL-UAA;ID=trnL-UAA/1/tRNA/1;Parent=trnL-UAA.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	57249	57817	.	+	.	Name=trnL-UAA;ID=trnL-UAA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	57249	57817	.	+	.	gene=trnL-UAA;ID=trnL-UAA.tRNA;Parent=trnL-UAA
+Phylloglossum_drummondii_chloroplast	Chloe	intron	57284	57767	.	+	.	gene=trnL-UAA;ID=trnL-UAA/1/intron/2;Parent=trnL-UAA.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	57768	57817	.	+	.	gene=trnL-UAA;ID=trnL-UAA/1/tRNA/3;Parent=trnL-UAA.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	58778	58850	.	+	.	gene=trnF-GAA;ID=trnF-GAA.tRNA;Parent=trnF-GAA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	58778	58850	.	+	.	Name=trnF-GAA;ID=trnF-GAA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	58778	58850	.	+	.	gene=trnF-GAA;ID=trnF-GAA/1/tRNA/1;Parent=trnF-GAA.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	59377	59853	.	-	.	Name=ndhJ;ID=ndhJ
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	59377	59853	.	-	.	gene=ndhJ;ID=ndhJ.mRNA;Parent=ndhJ
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	59377	59853	.	-	0	codon_start=1;gene=ndhJ;ID=ndhJ/1/CDS/1;Parent=ndhJ.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	59381	59381	.	-	.	note=C to U RNA editing (frequency 0.68)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	59402	59402	.	-	.	note=C to U RNA editing (frequency 0.89)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	59511	59511	.	-	.	note=C to U RNA editing (frequency 0.51)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	59701	59701	.	-	.	note=C to U RNA editing (frequency 0.41)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	59702	59702	.	-	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	59711	59711	.	-	.	note=C to U RNA editing (frequency 0.75)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	59726	59726	.	-	.	note=C to U RNA editing (frequency 0.68)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	59925	60719	.	-	.	gene=ndhK;ID=ndhK.mRNA;Parent=ndhK
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	59925	60719	.	-	0	codon_start=1;gene=ndhK;ID=ndhK/1/CDS/1;Parent=ndhK.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	59925	60719	.	-	.	Name=ndhK;ID=ndhK
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60271	60271	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60514	60514	.	-	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60640	60640	1.36E-7	-	.	note=C to U RNA editing (frequency 0.09)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60649	60649	.	-	.	note=C to U RNA editing (frequency 0.35)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60661	60661	3.75E-205	-	.	note=C to U RNA editing (frequency 0.19)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	60677	61072	.	-	.	Name=ndhC;ID=ndhC
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	60677	61072	.	-	0	codon_start=1;gene=ndhC;ID=ndhC/1/CDS/1;Parent=ndhC.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	60677	61072	.	-	.	gene=ndhC;ID=ndhC.mRNA;Parent=ndhC
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60707	60707	.	-	.	note=C to U RNA editing (frequency 0.23)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60712	60712	.	-	.	note=C to U RNA editing (frequency 0.74)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60713	60713	2.06E-46	-	.	note=C to U RNA editing (frequency 0.12)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60723	60723	.	-	.	note=C to U RNA editing (frequency 0.74)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60758	60758	.	-	.	note=C to U RNA editing (frequency 0.54)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60762	60762	.	-	.	note=C to U RNA editing (frequency 0.80)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60768	60768	.	-	.	note=C to U RNA editing (frequency 0.30)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60780	60780	.	-	.	note=C to U RNA editing (frequency 0.75)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60792	60792	.	-	.	note=C to U RNA editing (frequency 0.77)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60815	60815	.	-	.	note=C to U RNA editing (frequency 0.77)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60837	60837	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60861	60861	.	-	.	note=C to U RNA editing (frequency 0.84)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60873	60873	.	-	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	60999	60999	.	-	.	note=C to U RNA editing (frequency 0.84)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	61247	61871	.	-	.	Name=trnV-UAC;ID=trnV-UAC
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	61247	61871	.	-	.	gene=trnV-UAC;ID=trnV-UAC.tRNA;Parent=trnV-UAC
+Phylloglossum_drummondii_chloroplast	Chloe	exon	61247	61281	.	-	.	gene=trnV-UAC;ID=trnV-UAC/1/tRNA/3;Parent=trnV-UAC.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	intron	61282	61834	.	-	.	gene=trnV-UAC;ID=trnV-UAC/1/intron/2;Parent=trnV-UAC.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	61835	61871	.	-	.	gene=trnV-UAC;ID=trnV-UAC/1/tRNA/1;Parent=trnV-UAC.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	62008	62080	.	+	.	gene=trnM-CAU;ID=trnM-CAU.tRNA;Parent=trnM-CAU
+Phylloglossum_drummondii_chloroplast	Chloe	gene	62008	62080	.	+	.	Name=trnM-CAU;ID=trnM-CAU
+Phylloglossum_drummondii_chloroplast	Chloe	exon	62008	62080	.	+	.	gene=trnM-CAU;ID=trnM-CAU/1/tRNA/1;Parent=trnM-CAU.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	62222	62641	.	-	.	Name=atpE;ID=atpE
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	62222	62641	.	-	0	codon_start=1;gene=atpE;ID=atpE/1/CDS/1;Parent=atpE.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	62222	62641	.	-	.	gene=atpE;ID=atpE.mRNA;Parent=atpE
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	62647	64125	.	-	.	gene=atpB;ID=atpB.mRNA;Parent=atpB
+Phylloglossum_drummondii_chloroplast	Chloe	gene	62647	64125	.	-	.	Name=atpB;ID=atpB
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	62647	64125	.	-	0	codon_start=1;gene=atpB;ID=atpB/1/CDS/1;Parent=atpB.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	63018	63018	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	63266	63266	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	63656	63656	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	63799	63799	.	-	.	note=C to U RNA editing (frequency 0.63)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	64782	66209	.	+	.	gene=rbcL;ID=rbcL.mRNA;Parent=rbcL
+Phylloglossum_drummondii_chloroplast	Chloe	gene	64782	66209	.	+	.	Name=rbcL;ID=rbcL
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	64782	66209	.	+	0	codon_start=1;gene=rbcL;ID=rbcL/1/CDS/1;Parent=rbcL.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	65266	65266	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	65980	65980	.	+	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	65986	65986	.	+	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	66145	66145	.	+	.	note=C to U RNA editing (frequency 1.00)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	66370	66443	.	+	.	Name=trnR-CCG;ID=trnR-CCG
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	66370	66443	.	+	.	gene=trnR-CCG;ID=trnR-CCG.tRNA;Parent=trnR-CCG
+Phylloglossum_drummondii_chloroplast	Chloe	exon	66370	66443	.	+	.	gene=trnR-CCG;ID=trnR-CCG/1/tRNA/1;Parent=trnR-CCG.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	66883	67833	.	+	0	codon_start=1;gene=accD;ID=accD/1/CDS/1;Parent=accD.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	66883	67833	.	+	.	gene=accD;ID=accD.mRNA;Parent=accD
+Phylloglossum_drummondii_chloroplast	Chloe	gene	66883	67833	.	+	.	Name=accD;ID=accD
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	66944	66944	1.68E-233	+	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	67208	67208	.	+	.	note=C to U RNA editing (frequency 0.88)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	67298	67298	.	+	.	note=C to U RNA editing (frequency 0.89)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	67388	67388	.	+	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	67592	67592	.	+	.	note=C to U RNA editing (frequency 0.78)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	68196	68306	.	+	.	Name=psaI;ID=psaI
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	68196	68306	.	+	.	gene=psaI;ID=psaI.mRNA;Parent=psaI
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	68196	68306	.	+	0	codon_start=1;gene=psaI;ID=psaI/1/CDS/1;Parent=psaI.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	68212	68212	.	+	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	68660	69214	.	+	.	gene=pafII;ID=pafII.mRNA;Parent=pafII
+Phylloglossum_drummondii_chloroplast	Chloe	gene	68660	69214	.	+	.	Name=pafII;ID=pafII
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	68660	69214	.	+	0	codon_start=1;gene=pafII;ID=pafII/1/CDS/1;Parent=pafII.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	68886	68886	.	+	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	68887	68887	.	+	.	note=C to U RNA editing (frequency 0.51)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	69066	69066	2.06E-90	+	.	note=C to U RNA editing (frequency 0.36)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	69430	70995	.	+	0	codon_start=1;gene=cemA;ID=cemA/1/CDS/1;Parent=cemA.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	69430	70995	.	+	.	Name=cemA;ID=cemA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	69430	70995	.	+	.	gene=cemA;ID=cemA.mRNA;Parent=cemA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	69494	69494	.	+	.	note=C to U RNA editing (frequency 0.68)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	70466	70466	7.17E-111	+	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	70470	70470	7.36E-35	-	.	note=C to U RNA editing (frequency 0.37)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	70485	70485	9.66E-25	-	.	note=C to U RNA editing (frequency 0.23)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	70498	70498	.	+	.	note=C to U RNA editing (frequency 0.89)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	70529	70529	1.24E-42	+	.	note=C to U RNA editing (frequency 0.23)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	70664	70664	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	70784	70784	.	+	.	note=C to U RNA editing (frequency 0.77)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	70838	70838	.	+	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	70907	70907	.	+	.	note=C to U RNA editing (frequency 0.88)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	71226	71226	.	+	.	note=C to U RNA editing (frequency 0.81)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	71227	72189	.	+	0	codon_start=1;gene=petA;ID=petA/1/CDS/1;Parent=petA.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	71227	72189	.	+	.	gene=petA;ID=petA.mRNA;Parent=petA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	71227	72189	.	+	.	Name=petA;ID=petA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	72065	72065	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	72103	72103	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	72811	72933	.	-	.	Name=psbJ;ID=psbJ
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	72811	72933	.	-	.	gene=psbJ;ID=psbJ.mRNA;Parent=psbJ
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	72811	72933	.	-	0	codon_start=1;gene=psbJ;ID=psbJ/1/CDS/1;Parent=psbJ.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	72847	72847	.	-	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	72848	72848	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	72851	72851	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	72874	72874	.	-	.	note=C to U RNA editing (frequency 0.79)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	73054	73170	.	-	0	codon_start=1;gene=psbL;ID=psbL/1/CDS/1;Parent=psbL.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	73054	73170	.	-	.	Name=psbL;ID=psbL
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	73054	73170	.	-	.	gene=psbL;ID=psbL.mRNA;Parent=psbL
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	73198	73317	.	-	.	gene=psbF;ID=psbF.mRNA;Parent=psbF
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	73198	73317	.	-	0	codon_start=1;gene=psbF;ID=psbF/1/CDS/1;Parent=psbF.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	73198	73317	.	-	.	Name=psbF;ID=psbF
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	73238	73238	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	73327	73578	.	-	.	gene=psbE;ID=psbE.mRNA;Parent=psbE
+Phylloglossum_drummondii_chloroplast	Chloe	gene	73327	73578	.	-	.	Name=psbE;ID=psbE
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	73327	73578	.	-	0	codon_start=1;gene=psbE;ID=psbE/1/CDS/1;Parent=psbE.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	75106	75201	.	+	.	gene=petL;ID=petL.mRNA;Parent=petL
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	75106	75201	.	+	0	codon_start=1;gene=petL;ID=petL/1/CDS/1;Parent=petL.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	75106	75201	.	+	.	Name=petL;ID=petL
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	75155	75155	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	75161	75161	.	+	.	note=C to U RNA editing (frequency 0.90)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	75164	75164	.	+	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	75166	75166	.	+	.	note=C to U RNA editing (frequency 0.29)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	75167	75167	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	75354	75470	.	+	0	codon_start=1;gene=petG;ID=petG/1/CDS/1;Parent=petG.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	75354	75470	.	+	.	gene=petG;ID=petG.mRNA;Parent=petG
+Phylloglossum_drummondii_chloroplast	Chloe	gene	75354	75470	.	+	.	Name=petG;ID=petG
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	75385	75385	.	+	.	note=C to U RNA editing (frequency 0.87)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	75391	75391	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	75415	75415	.	+	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	75433	75433	.	+	.	note=C to U RNA editing (frequency 0.92)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	75544	75544	2.3E-220	+	.	note=C to U RNA editing (frequency 0.39)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	75638	75711	.	-	.	Name=trnW-CCA;ID=trnW-CCA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	75638	75711	.	-	.	gene=trnW-CCA;ID=trnW-CCA.tRNA;Parent=trnW-CCA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	75638	75711	.	-	.	gene=trnW-CCA;ID=trnW-CCA/1/tRNA/1;Parent=trnW-CCA.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	75828	75901	.	-	.	gene=trnP-UGG;ID=trnP-UGG/1/tRNA/1;Parent=trnP-UGG.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	75828	75901	.	-	.	Name=trnP-UGG;ID=trnP-UGG
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	75828	75901	.	-	.	gene=trnP-UGG;ID=trnP-UGG.tRNA;Parent=trnP-UGG
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	76292	76292	6.23E-33	+	.	note=C to U RNA editing (frequency 0.15)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	76362	76490	.	+	.	gene=psaJ;ID=psaJ.mRNA;Parent=psaJ
+Phylloglossum_drummondii_chloroplast	Chloe	gene	76362	76490	.	+	.	Name=psaJ;ID=psaJ
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	76362	76490	.	+	0	codon_start=1;gene=psaJ;ID=psaJ/1/CDS/1;Parent=psaJ.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	76438	76438	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	76826	77023	.	+	.	gene=rpl33;ID=rpl33.mRNA;Parent=rpl33
+Phylloglossum_drummondii_chloroplast	Chloe	gene	76826	77023	.	+	.	Name=rpl33;ID=rpl33
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	76826	77023	.	+	0	codon_start=1;gene=rpl33;ID=rpl33/1/CDS/1;Parent=rpl33.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	77061	77309	.	+	.	Name=rps18;ID=rps18
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	77061	77309	.	+	.	gene=rps18;ID=rps18.mRNA;Parent=rps18
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	77061	77309	.	+	0	codon_start=1;gene=rps18;ID=rps18/1/CDS/1;Parent=rps18.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	77257	77257	.	+	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	77263	77263	.	+	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	77266	77266	.	+	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	77533	77898	.	-	0	codon_start=1;gene=rpl20;ID=rpl20/1/CDS/1;Parent=rpl20.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	77533	77898	.	-	.	gene=rpl20;ID=rpl20.mRNA;Parent=rpl20
+Phylloglossum_drummondii_chloroplast	Chloe	gene	77533	77898	.	-	.	Name=rpl20;ID=rpl20
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	77630	77630	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Chloe	intron	79592	80193	.	-	.	gene=rps12A;ID=rps12A/1/intron/2;Parent=rps12A.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	79592	80307	.	-	.	gene=rps12A;ID=rps12A.mRNA;Parent=rps12A
+Phylloglossum_drummondii_chloroplast	Chloe	gene	79592	80307	.	-	.	Name=rps12A;ID=rps12A
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	80194	80307	.	-	0	codon_start=1;gene=rps12A;ID=rps12A/1/CDS/1;Parent=rps12A.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	80454	82440	.	-	.	gene=clpP1;ID=clpP1.mRNA;Parent=clpP1
+Phylloglossum_drummondii_chloroplast	Chloe	gene	80454	82440	.	-	.	Name=clpP1;ID=clpP1
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	80454	80720	.	-	0	codon_start=1;gene=clpP1;ID=clpP1/1/CDS/5;Parent=clpP1.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	80548	80548	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Chloe	intron	80721	81350	.	-	.	gene=clpP1;ID=clpP1/1/intron/4;Parent=clpP1.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	81351	81642	.	-	1	codon_start=2;gene=clpP1;ID=clpP1/1/CDS/3;Parent=clpP1.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	81400	81400	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	81509	81509	.	-	.	note=C to U RNA editing (frequency 0.89)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	81553	81553	.	-	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_chloroplast	Chloe	intron	81643	82369	.	-	.	gene=clpP1;ID=clpP1/1/intron/2;Parent=clpP1.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	82370	82440	.	-	0	codon_start=1;gene=clpP1;ID=clpP1/1/CDS/1;Parent=clpP1.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	83495	85021	.	+	.	gene=psbB;ID=psbB.mRNA;Parent=psbB
+Phylloglossum_drummondii_chloroplast	Chloe	gene	83495	85021	.	+	.	Name=psbB;ID=psbB
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	83495	85021	.	+	0	codon_start=1;gene=psbB;ID=psbB/1/CDS/1;Parent=psbB.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	83737	83737	.	+	.	note=C to U RNA editing (frequency 0.12)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	84789	84789	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	84790	84790	.	+	.	note=C to U RNA editing (frequency 0.17)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	84913	84913	.	+	.	note=C to U RNA editing (frequency 0.18)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	84951	84951	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	84969	84969	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	85182	85289	.	+	.	gene=psbT;ID=psbT.mRNA;Parent=psbT
+Phylloglossum_drummondii_chloroplast	Chloe	gene	85182	85289	.	+	.	Name=psbT;ID=psbT
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	85182	85289	.	+	0	codon_start=1;gene=psbT;ID=psbT/1/CDS/1;Parent=psbT.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	85246	85246	.	+	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	85445	85576	.	-	.	Name=pbf1;ID=pbf1
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	85445	85576	.	-	0	codon_start=1;gene=pbf1;ID=pbf1/1/CDS/1;Parent=pbf1.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	85445	85576	.	-	.	gene=pbf1;ID=pbf1.mRNA;Parent=pbf1
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	85665	85889	.	+	0	codon_start=1;gene=psbH;ID=psbH/1/CDS/1;Parent=psbH.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	85665	85889	.	+	.	Name=psbH;ID=psbH
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	85665	85889	.	+	.	gene=psbH;ID=psbH.mRNA;Parent=psbH
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	85813	85813	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	85814	85814	.	+	.	note=C to U RNA editing (frequency 0.56)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	85825	85825	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	85856	85856	.	+	.	note=C to U RNA editing (frequency 0.78)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	85861	85861	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	85874	85874	.	+	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	85905	85905	.	+	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	85918	85918	.	+	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	86118	86123	.	+	0	codon_start=1;gene=petB;ID=petB/1/CDS/1;Parent=petB.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	86118	87543	.	+	.	Name=petB;ID=petB
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	86118	87543	.	+	.	gene=petB;ID=petB.mRNA;Parent=petB
+Phylloglossum_drummondii_chloroplast	Chloe	intron	86124	86901	.	+	.	gene=petB;ID=petB/1/intron/2;Parent=petB.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	86902	87543	.	+	0	codon_start=1;gene=petB;ID=petB/1/CDS/3;Parent=petB.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	87287	87287	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	87467	87467	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	87748	87748	.	+	.	note=C to U RNA editing (frequency 0.90)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	87749	87756	.	+	0	codon_start=1;gene=petD;ID=petD/1/CDS/1;Parent=petD.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	87749	89000	.	+	.	Name=petD;ID=petD
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	87749	89000	.	+	.	gene=petD;ID=petD.mRNA;Parent=petD
+Phylloglossum_drummondii_chloroplast	Chloe	intron	87757	88525	.	+	.	gene=petD;ID=petD/1/intron/2;Parent=petD.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	88302	88302	1.43E-55	+	.	note=C to U RNA editing (frequency 0.16)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	88526	89000	.	+	1	codon_start=2;gene=petD;ID=petD/1/CDS/3;Parent=petD.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	88558	88558	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	88636	88636	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	88939	88939	.	+	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	88963	88963	.	+	.	note=C to U RNA editing (frequency 0.90)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	89329	90342	.	-	.	Name=rpoA;ID=rpoA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	89329	90342	.	-	.	gene=rpoA;ID=rpoA.mRNA;Parent=rpoA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	89329	90342	.	-	0	codon_start=1;gene=rpoA;ID=rpoA/1/CDS/1;Parent=rpoA.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	89718	89718	.	-	.	note=C to U RNA editing (frequency 0.76)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	90062	90062	.	-	.	note=C to U RNA editing (frequency 0.75)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	90394	90795	.	-	.	Name=rps11;ID=rps11
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	90394	90795	.	-	0	codon_start=1;gene=rps11;ID=rps11/1/CDS/1;Parent=rps11.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	90394	90795	.	-	.	gene=rps11;ID=rps11.mRNA;Parent=rps11
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	90494	90494	.	-	.	note=C to U RNA editing (frequency 0.97)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	90632	90632	4.42E-235	-	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	90947	91060	.	-	.	gene=rpl36;ID=rpl36.mRNA;Parent=rpl36
+Phylloglossum_drummondii_chloroplast	Chloe	gene	90947	91060	.	-	.	Name=rpl36;ID=rpl36
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	90947	91060	.	-	0	codon_start=1;gene=rpl36;ID=rpl36/1/CDS/1;Parent=rpl36.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	90982	90982	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	91059	91059	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	91188	91424	.	-	.	Name=infA;ID=infA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	91188	91424	.	-	0	codon_start=1;gene=infA;ID=infA/1/CDS/1;Parent=infA.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	91188	91424	.	-	.	gene=infA;ID=infA.mRNA;Parent=infA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	91512	91910	.	-	.	Name=rps8;ID=rps8
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	91512	91910	.	-	.	gene=rps8;ID=rps8.mRNA;Parent=rps8
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	91512	91910	.	-	0	codon_start=1;gene=rps8;ID=rps8/1/CDS/1;Parent=rps8.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	91576	91576	.	-	.	note=C to U RNA editing (frequency 0.64)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	91594	91594	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	92106	92474	.	-	.	gene=rpl14;ID=rpl14.mRNA;Parent=rpl14
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	92106	92474	.	-	0	codon_start=1;gene=rpl14;ID=rpl14/1/CDS/1;Parent=rpl14.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	92106	92474	.	-	.	Name=rpl14;ID=rpl14
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	92158	92158	.	-	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	92342	92342	2.92E-64	+	.	note=C to U RNA editing (frequency 0.47)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	92347	92347	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	92371	92371	.	-	.	note=C to U RNA editing (frequency 0.87)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	92419	92419	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	92636	94025	.	-	.	gene=rpl16;ID=rpl16.mRNA;Parent=rpl16
+Phylloglossum_drummondii_chloroplast	Chloe	gene	92636	94025	.	-	.	Name=rpl16;ID=rpl16
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	92636	93073	.	-	0	codon_start=1;gene=rpl16;ID=rpl16/1/CDS/3;Parent=rpl16.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	intron	93074	94016	.	-	.	gene=rpl16;ID=rpl16/1/intron/2;Parent=rpl16.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	94017	94025	.	-	0	codon_start=1;gene=rpl16;ID=rpl16/1/CDS/1;Parent=rpl16.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	94170	94826	.	-	.	Name=rps3;ID=rps3
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	94170	94826	.	-	.	gene=rps3;ID=rps3.mRNA;Parent=rps3
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	94170	94826	.	-	0	codon_start=1;gene=rps3;ID=rps3/1/CDS/1;Parent=rps3.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	94192	94192	.	-	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	94483	94483	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	94846	95247	.	-	.	gene=rpl22;ID=rpl22.mRNA;Parent=rpl22
+Phylloglossum_drummondii_chloroplast	Chloe	gene	94846	95247	.	-	.	Name=rpl22;ID=rpl22
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	94846	95247	.	-	0	codon_start=1;gene=rpl22;ID=rpl22/1/CDS/1;Parent=rpl22.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	95265	95543	.	-	.	Name=rps19;ID=rps19
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	95265	95543	.	-	0	codon_start=1;gene=rps19;ID=rps19/1/CDS/1;Parent=rps19.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	95265	95543	.	-	.	gene=rps19;ID=rps19.mRNA;Parent=rps19
+Phylloglossum_drummondii_chloroplast	Chloe	gene	95572	97081	.	-	.	Name=rpl2;ID=rpl2
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	95572	96008	.	-	2	codon_start=3;gene=rpl2;ID=rpl2/1/CDS/3;Parent=rpl2.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	95572	97081	.	-	.	gene=rpl2;ID=rpl2.mRNA;Parent=rpl2
+Phylloglossum_drummondii_chloroplast	Chloe	intron	96009	96678	.	-	.	gene=rpl2;ID=rpl2/1/intron/2;Parent=rpl2.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	96679	97081	.	-	0	codon_start=1;gene=rpl2;ID=rpl2/1/CDS/1;Parent=rpl2.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	97120	97395	.	-	0	codon_start=1;gene=rpl23;ID=rpl23/1/CDS/1;Parent=rpl23.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	97120	97395	.	-	.	Name=rpl23;ID=rpl23
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	97120	97395	.	-	.	gene=rpl23;ID=rpl23.mRNA;Parent=rpl23
+Phylloglossum_drummondii_chloroplast	Chloe	gene	97609	97682	.	-	.	Name=trnI-CAU;ID=trnI-CAU
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	97609	97682	.	-	.	gene=trnI-CAU;ID=trnI-CAU.tRNA;Parent=trnI-CAU
+Phylloglossum_drummondii_chloroplast	Chloe	exon	97609	97682	.	-	.	gene=trnI-CAU;ID=trnI-CAU/1/tRNA/1;Parent=trnI-CAU.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	repeat_region	97888	111626	.	+	.	Name=IR-1;ID=IR-1
+Phylloglossum_drummondii_chloroplast	Chloe	gene	99238	99309	.	+	.	Name=trnV-GAC;ID=trnV-GAC
+Phylloglossum_drummondii_chloroplast	Chloe	exon	99238	99309	.	+	.	gene=trnV-GAC;ID=trnV-GAC/1/tRNA/1;Parent=trnV-GAC.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	99238	99309	.	+	.	gene=trnV-GAC;ID=trnV-GAC.tRNA;Parent=trnV-GAC
+Phylloglossum_drummondii_chloroplast	Chloe	rRNA	99513	101011	.	+	.	gene=rrn16;ID=rrn16.rRNA;Parent=rrn16
+Phylloglossum_drummondii_chloroplast	Chloe	exon	99513	101011	.	+	.	gene=rrn16;ID=rrn16/1/rRNA/1;Parent=rrn16.rRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	99513	101011	.	+	.	Name=rrn16;ID=rrn16
+Phylloglossum_drummondii_chloroplast	Chloe	exon	101357	101393	.	+	.	gene=trnI-GAU;ID=trnI-GAU/1/tRNA/1;Parent=trnI-GAU.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	101357	102391	.	+	.	Name=trnI-GAU;ID=trnI-GAU
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	101357	102391	.	+	.	gene=trnI-GAU;ID=trnI-GAU.tRNA;Parent=trnI-GAU
+Phylloglossum_drummondii_chloroplast	Chloe	intron	101394	102356	.	+	.	gene=trnI-GAU;ID=trnI-GAU/1/intron/2;Parent=trnI-GAU.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	102357	102391	.	+	.	gene=trnI-GAU;ID=trnI-GAU/1/tRNA/3;Parent=trnI-GAU.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	102463	103322	.	+	.	gene=trnA-UGC;ID=trnA-UGC.tRNA;Parent=trnA-UGC
+Phylloglossum_drummondii_chloroplast	Chloe	exon	102463	102500	.	+	.	gene=trnA-UGC;ID=trnA-UGC/1/tRNA/1;Parent=trnA-UGC.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	102463	103322	.	+	.	Name=trnA-UGC;ID=trnA-UGC
+Phylloglossum_drummondii_chloroplast	Chloe	intron	102501	103287	.	+	.	gene=trnA-UGC;ID=trnA-UGC/1/intron/2;Parent=trnA-UGC.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	103288	103322	.	+	.	gene=trnA-UGC;ID=trnA-UGC/1/tRNA/3;Parent=trnA-UGC.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	104070	106911	.	+	.	gene=rrn23;ID=rrn23/1/rRNA/1;Parent=rrn23.rRNA
+Phylloglossum_drummondii_chloroplast	Chloe	rRNA	104070	106911	.	+	.	gene=rrn23;ID=rrn23.rRNA;Parent=rrn23
+Phylloglossum_drummondii_chloroplast	Chloe	gene	104070	106911	.	+	.	Name=rrn23;ID=rrn23
+Phylloglossum_drummondii_chloroplast	Chloe	gene	107013	107115	.	+	.	Name=rrn4.5;ID=rrn4.5
+Phylloglossum_drummondii_chloroplast	Chloe	exon	107013	107115	.	+	.	gene=rrn4;ID=rrn4.5/1/rRNA/1;Parent=rrn4.5.rRNA
+Phylloglossum_drummondii_chloroplast	Chloe	rRNA	107013	107115	.	+	.	gene=rrn4;ID=rrn4.5.rRNA;Parent=rrn4.5
+Phylloglossum_drummondii_chloroplast	Chloe	exon	107354	107474	.	+	.	gene=rrn5;ID=rrn5/1/rRNA/1;Parent=rrn5.rRNA
+Phylloglossum_drummondii_chloroplast	Chloe	rRNA	107354	107474	.	+	.	gene=rrn5;ID=rrn5.rRNA;Parent=rrn5
+Phylloglossum_drummondii_chloroplast	Chloe	gene	107354	107474	.	+	.	Name=rrn5;ID=rrn5
+Phylloglossum_drummondii_chloroplast	Chloe	gene	107722	107795	.	+	.	Name=trnR-ACG;ID=trnR-ACG
+Phylloglossum_drummondii_chloroplast	Chloe	exon	107722	107795	.	+	.	gene=trnR-ACG;ID=trnR-ACG/1/tRNA/1;Parent=trnR-ACG.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	107722	107795	.	+	.	gene=trnR-ACG;ID=trnR-ACG.tRNA;Parent=trnR-ACG
+Phylloglossum_drummondii_chloroplast	Chloe	gene	108637	108708	.	-	.	Name=trnN-GUU;ID=trnN-GUU-2
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	108637	108708	.	-	.	gene=trnN-GUU-2;ID=trnN-GUU-2.tRNA;Parent=trnN-GUU-2
+Phylloglossum_drummondii_chloroplast	Chloe	exon	108637	108708	.	-	.	gene=trnN-GUU;ID=trnN-GUU/2/tRNA/1;Parent=trnN-GUU-2.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	109520	111715	.	-	0	codon_start=1;gene=ndhF;ID=ndhF/2/CDS/1;Parent=ndhF-2.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	109520	111715	.	-	.	Name=ndhF;ID=ndhF-2
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	109520	111715	.	-	.	gene=ndhF-2;ID=ndhF-2.mRNA;Parent=ndhF-2
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	109593	109593	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	109653	109653	.	-	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	109884	109884	.	-	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	109890	109890	.	-	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	109896	109896	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	110103	110103	.	-	.	note=C to U RNA editing (frequency 0.64)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	110356	110356	.	-	.	note=C to U RNA editing (frequency 0.87)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	110642	110642	3.34E-199	-	.	note=C to U RNA editing (frequency 0.53)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	110643	110643	.	-	.	note=C to U RNA editing (frequency 0.74)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	110646	110646	.	-	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	110649	110649	.	-	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	110662	110662	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	110688	110688	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	110808	110808	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	110928	110928	.	-	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	111015	111015	.	-	.	note=C to U RNA editing (frequency 0.89)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	111033	111033	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	111101	111101	.	-	.	note=C to U RNA editing (frequency 0.28)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	111135	111135	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	111144	111144	.	-	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	111324	111324	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	111388	111388	.	-	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	111453	111453	.	-	.	note=C to U RNA editing (frequency 0.87)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	112073	112429	.	+	0	codon_start=1;gene=rpl21;ID=rpl21/1/CDS/1;Parent=rpl21.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	112073	112429	.	+	.	gene=rpl21;ID=rpl21.mRNA;Parent=rpl21
+Phylloglossum_drummondii_chloroplast	Chloe	gene	112073	112429	.	+	.	Name=rpl21;ID=rpl21
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	112589	112774	.	+	0	codon_start=1;gene=rpl32;ID=rpl32/1/CDS/1;Parent=rpl32.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	112589	112774	.	+	.	gene=rpl32;ID=rpl32.mRNA;Parent=rpl32
+Phylloglossum_drummondii_chloroplast	Chloe	gene	112589	112774	.	+	.	Name=rpl32;ID=rpl32
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	112686	112686	.	+	.	note=C to U RNA editing (frequency 0.56)
+Phylloglossum_drummondii_chloroplast	Chloe	exon	113600	113679	.	+	.	gene=trnL-UAG;ID=trnL-UAG/1/tRNA/1;Parent=trnL-UAG.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	113600	113679	.	+	.	gene=trnL-UAG;ID=trnL-UAG.tRNA;Parent=trnL-UAG
+Phylloglossum_drummondii_chloroplast	Chloe	gene	113600	113679	.	+	.	Name=trnL-UAG;ID=trnL-UAG
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	113882	114859	.	+	0	codon_start=1;gene=ccsA;ID=ccsA/1/CDS/1;Parent=ccsA.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	113882	114859	.	+	.	Name=ccsA;ID=ccsA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	113882	114859	.	+	.	gene=ccsA;ID=ccsA.mRNA;Parent=ccsA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	114085	114085	.	+	.	note=C to U RNA editing (frequency 0.87)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	114348	114348	.	+	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	114381	114381	.	+	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	114597	114597	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	114781	114781	3.79E-199	+	.	note=C to U RNA editing (frequency 0.35)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	114813	114813	.	+	.	note=C to U RNA editing (frequency 0.92)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	114816	114816	.	+	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	115111	116664	.	-	0	codon_start=1;gene=ndhD;ID=ndhD/1/CDS/1;Parent=ndhD.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	115111	116664	.	-	.	gene=ndhD;ID=ndhD.mRNA;Parent=ndhD
+Phylloglossum_drummondii_chloroplast	Chloe	gene	115111	116664	.	-	.	Name=ndhD;ID=ndhD
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	115331	115331	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	115409	115409	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	115421	115421	.	-	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	115574	115574	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	115580	115580	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	115616	115616	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	115712	115712	.	-	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	116264	116264	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	116267	116267	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	116618	116618	.	-	.	note=C to U RNA editing (frequency 0.24)
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	116790	117035	.	-	.	gene=psaC;ID=psaC.mRNA;Parent=psaC
+Phylloglossum_drummondii_chloroplast	Chloe	gene	116790	117035	.	-	.	Name=psaC;ID=psaC
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	116790	117035	.	-	0	codon_start=1;gene=psaC;ID=psaC/1/CDS/1;Parent=psaC.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	117356	117658	.	-	.	Name=ndhE;ID=ndhE
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	117356	117658	.	-	.	gene=ndhE;ID=ndhE.mRNA;Parent=ndhE
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	117356	117658	.	-	0	codon_start=1;gene=ndhE;ID=ndhE/1/CDS/1;Parent=ndhE.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	117429	117429	.	-	.	note=C to U RNA editing (frequency 0.99)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	117740	118339	.	-	.	Name=ndhG;ID=ndhG
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	117740	118339	.	-	0	codon_start=1;gene=ndhG;ID=ndhG/1/CDS/1;Parent=ndhG.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	117740	118339	.	-	.	gene=ndhG;ID=ndhG.mRNA;Parent=ndhG
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	117873	117873	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	117888	117888	.	-	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	118029	118029	.	-	.	note=C to U RNA editing (frequency 0.73)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	118219	118219	.	-	.	note=C to U RNA editing (frequency 0.79)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	118242	118242	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	118260	118260	.	-	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	118495	119064	.	-	.	Name=ndhI;ID=ndhI
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	118495	119064	.	-	.	gene=ndhI;ID=ndhI.mRNA;Parent=ndhI
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	118495	119064	.	-	0	codon_start=1;gene=ndhI;ID=ndhI/1/CDS/1;Parent=ndhI.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	119164	119718	.	-	0	codon_start=1;gene=ndhA;ID=ndhA/1/CDS/3;Parent=ndhA.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	119164	121156	.	-	.	Name=ndhA;ID=ndhA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	119164	121156	.	-	.	gene=ndhA;ID=ndhA.mRNA;Parent=ndhA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	119168	119168	.	-	.	note=C to U RNA editing (frequency 0.76)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	119195	119195	.	-	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	119459	119459	.	-	.	note=C to U RNA editing (frequency 0.66)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	119462	119462	.	-	.	note=C to U RNA editing (frequency 0.71)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	119486	119486	.	-	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	119648	119648	.	-	.	note=C to U RNA editing (frequency 0.88)
+Phylloglossum_drummondii_chloroplast	Chloe	intron	119719	120601	.	-	.	gene=ndhA;ID=ndhA/1/intron/2;Parent=ndhA.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	120167	120167	2.28E-63	-	.	note=C to U RNA editing (frequency 0.12)
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	120602	121156	.	-	0	codon_start=1;gene=ndhA;ID=ndhA/1/CDS/1;Parent=ndhA.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	120810	120810	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	121143	122339	.	-	.	Name=ndhH;ID=ndhH
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	121143	122339	.	-	0	codon_start=1;gene=ndhH;ID=ndhH/1/CDS/1;Parent=ndhH.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	121143	122339	.	-	.	gene=ndhH;ID=ndhH.mRNA;Parent=ndhH
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	121160	121160	.	-	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	121180	121180	.	-	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	121537	121537	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	121589	121589	.	-	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	121765	121765	.	-	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	121921	121921	.	-	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	122023	122023	.	-	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_chloroplast	Chloe	gene	122438	122719	.	-	.	Name=rps15;ID=rps15
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	122438	122719	.	-	0	codon_start=1;gene=rps15;ID=rps15/1/CDS/1;Parent=rps15.mRNA
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	122438	122719	.	-	.	gene=rps15;ID=rps15.mRNA;Parent=rps15
+Phylloglossum_drummondii_chloroplast	Chloe	gene	123149	128224	.	-	.	Name=ycf1;ID=ycf1
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	123149	128224	.	-	.	gene=ycf1;ID=ycf1.mRNA;Parent=ycf1
+Phylloglossum_drummondii_chloroplast	Chloe	CDS	123149	128224	.	-	0	codon_start=1;gene=ycf1;ID=ycf1/1/CDS/1;Parent=ycf1.mRNA
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	128097	128097	.	-	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	128223	128223	6.51E-52	-	.	note=C to U RNA editing (frequency 0.23)
+Phylloglossum_drummondii_chloroplast	Geneious	gene	128582	129684	.	-	.	Name=chlN pseudogene;modified by=farle
+Phylloglossum_drummondii_chloroplast	Geneious	gene	129730	130590	.	-	.	Name=chlL pseudogene;modified by=farle
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	130690	130690	1.49E-265	+	.	note=C to U RNA editing (frequency 0.56)
+Phylloglossum_drummondii_chloroplast	Chloe	repeat_region	130782	144520	.	-	.	Name=IR-2;ID=IR-2
+Phylloglossum_drummondii_chloroplast	Chloe	gene	130846	132888	.	+	.	Name=ndhF repeat;ID=ndhF;modified by=farle
+Phylloglossum_drummondii_chloroplast	Chloe	mRNA	130846	132888	.	+	.	gene=ndhF;ID=ndhF.mRNA;Parent=ndhF
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	130955	130955	.	+	.	note=C to U RNA editing (frequency 0.87)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131020	131020	.	+	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131084	131084	.	+	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131264	131264	.	+	.	note=C to U RNA editing (frequency 0.94)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131273	131273	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131307	131307	.	+	.	note=C to U RNA editing (frequency 0.28)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131375	131375	.	+	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131393	131393	.	+	.	note=C to U RNA editing (frequency 0.89)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131480	131480	.	+	.	note=C to U RNA editing (frequency 0.91)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131600	131600	.	+	.	note=C to U RNA editing (frequency 0.93)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131720	131720	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131746	131746	.	+	.	note=C to U RNA editing (frequency 0.95)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131759	131759	.	+	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131762	131762	.	+	.	note=C to U RNA editing (frequency 0.83)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131765	131765	.	+	.	note=C to U RNA editing (frequency 0.74)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	131766	131766	3.34E-199	+	.	note=C to U RNA editing (frequency 0.53)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	132052	132052	.	+	.	note=C to U RNA editing (frequency 0.87)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	132305	132305	.	+	.	note=C to U RNA editing (frequency 0.64)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	132512	132512	.	+	.	note=C to U RNA editing (frequency 0.96)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	132518	132518	.	+	.	note=C to U RNA editing (frequency 0.82)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	132524	132524	.	+	.	note=C to U RNA editing (frequency 0.85)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	132755	132755	.	+	.	note=C to U RNA editing (frequency 0.86)
+Phylloglossum_drummondii_chloroplast	Pyrimid	misc_feature	132815	132815	.	+	.	note=C to U RNA editing (frequency 0.98)
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	133700	133771	.	+	.	gene=trnN-GUU;ID=trnN-GUU.tRNA;Parent=trnN-GUU
+Phylloglossum_drummondii_chloroplast	Chloe	exon	133700	133771	.	+	.	gene=trnN-GUU;ID=trnN-GUU/1/tRNA/1;Parent=trnN-GUU.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	133700	133771	.	+	.	Name=trnN-GUU;ID=trnN-GUU
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	134613	134686	.	-	.	gene=trnR-ACG-2;ID=trnR-ACG-2.tRNA;Parent=trnR-ACG-2
+Phylloglossum_drummondii_chloroplast	Chloe	exon	134613	134686	.	-	.	gene=trnR-ACG;ID=trnR-ACG/2/tRNA/1;Parent=trnR-ACG-2.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	134613	134686	.	-	.	Name=trnR-ACG;ID=trnR-ACG-2
+Phylloglossum_drummondii_chloroplast	Chloe	exon	134934	135054	.	-	.	gene=rrn5;ID=rrn5/2/rRNA/1;Parent=rrn5-2.rRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	134934	135054	.	-	.	Name=rrn5;ID=rrn5-2
+Phylloglossum_drummondii_chloroplast	Chloe	rRNA	134934	135054	.	-	.	gene=rrn5-2;ID=rrn5-2.rRNA;Parent=rrn5-2
+Phylloglossum_drummondii_chloroplast	Chloe	exon	135293	135395	.	-	.	gene=rrn4;ID=rrn4.5/2/rRNA/1;Parent=rrn4.5-2.rRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	135293	135395	.	-	.	Name=rrn4.5;ID=rrn4.5-2
+Phylloglossum_drummondii_chloroplast	Chloe	rRNA	135293	135395	.	-	.	gene=rrn4;ID=rrn4.5-2.rRNA;Parent=rrn4.5-2
+Phylloglossum_drummondii_chloroplast	Chloe	rRNA	135497	138338	.	-	.	gene=rrn23-2;ID=rrn23-2.rRNA;Parent=rrn23-2
+Phylloglossum_drummondii_chloroplast	Chloe	gene	135497	138338	.	-	.	Name=rrn23;ID=rrn23-2
+Phylloglossum_drummondii_chloroplast	Chloe	exon	135497	138338	.	-	.	gene=rrn23;ID=rrn23/2/rRNA/1;Parent=rrn23-2.rRNA
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	139086	139945	.	-	.	gene=trnA-UGC-2;ID=trnA-UGC-2.tRNA;Parent=trnA-UGC-2
+Phylloglossum_drummondii_chloroplast	Chloe	exon	139086	139120	.	-	.	gene=trnA-UGC;ID=trnA-UGC/2/tRNA/3;Parent=trnA-UGC-2.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	139086	139945	.	-	.	Name=trnA-UGC;ID=trnA-UGC-2
+Phylloglossum_drummondii_chloroplast	Chloe	intron	139121	139907	.	-	.	gene=trnA-UGC;ID=trnA-UGC/2/intron/2;Parent=trnA-UGC-2.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	139908	139945	.	-	.	gene=trnA-UGC;ID=trnA-UGC/2/tRNA/1;Parent=trnA-UGC-2.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	140017	140051	.	-	.	gene=trnI-GAU;ID=trnI-GAU/2/tRNA/3;Parent=trnI-GAU-2.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	140017	141051	.	-	.	Name=trnI-GAU;ID=trnI-GAU-2
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	140017	141051	.	-	.	gene=trnI-GAU-2;ID=trnI-GAU-2.tRNA;Parent=trnI-GAU-2
+Phylloglossum_drummondii_chloroplast	Chloe	intron	140052	141014	.	-	.	gene=trnI-GAU;ID=trnI-GAU/2/intron/2;Parent=trnI-GAU-2.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	exon	141015	141051	.	-	.	gene=trnI-GAU;ID=trnI-GAU/2/tRNA/1;Parent=trnI-GAU-2.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	141397	142895	.	-	.	Name=rrn16;ID=rrn16-2
+Phylloglossum_drummondii_chloroplast	Chloe	exon	141397	142895	.	-	.	gene=rrn16;ID=rrn16/2/rRNA/1;Parent=rrn16-2.rRNA
+Phylloglossum_drummondii_chloroplast	Chloe	rRNA	141397	142895	.	-	.	gene=rrn16-2;ID=rrn16-2.rRNA;Parent=rrn16-2
+Phylloglossum_drummondii_chloroplast	Chloe	exon	143099	143170	.	-	.	gene=trnV-GAC;ID=trnV-GAC/2/tRNA/1;Parent=trnV-GAC-2.tRNA
+Phylloglossum_drummondii_chloroplast	Chloe	gene	143099	143170	.	-	.	Name=trnV-GAC;ID=trnV-GAC-2
+Phylloglossum_drummondii_chloroplast	Chloe	tRNA	143099	143170	.	-	.	gene=trnV-GAC-2;ID=trnV-GAC-2.tRNA;Parent=trnV-GAC-2
