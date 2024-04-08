@@ -12,7 +12,7 @@ Trim DNA reads using BBDuk from the [BBtools suite](https://jgi.doe.gov/data-and
 
 Settings: _ktrim=r k=23 mink=11 hdist=1 ftm=5 tpe tbo_ 
 
-Use trimmed reads to assemble the _Phylloglossum drumonndii_ chloroplast genome using [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty). Use a related species chloroplast sequence as a seed, for example, [_Huperzia serrata rbcL_](https://www.ncbi.nlm.nih.gov/nuccore/DQ464224.1). 
+Use trimmed reads to assemble the _Phylloglossum drummondii_ chloroplast genome using [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty). Use a related species chloroplast sequence as a seed, for example, [_Huperzia serrata rbcL_](https://www.ncbi.nlm.nih.gov/nuccore/DQ464224.1). 
 
 Config file settings: _type=chloro; genome range=120000-220000bp; kmer=51_
 
