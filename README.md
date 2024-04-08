@@ -10,7 +10,11 @@ Trim DNA reads using BBDuk from the [BBtools suite](https://jgi.doe.gov/data-and
 
 Settings: _ktrim=r k=23 mink=11 hdist=1 ftm=5 tpe tbo_ 
 
-Use trimmed reads to assemble the _Phylloglossum drumonndii_ chloroplast genome using NOVOPlasty with the Huperzia serrata rbcL gene as a seed sequence (settings type=chloro; genome range=120000-220000bp; kmer=51) (Dierckxsens et al., 2017), and using GetOrganelle (Jin et al., 2020). The resulting assemblies were identical. The chloroplast genome assembly was verified with Pilon (Walker et al., 2014). Using the RNA editing sites identified in the chloroplast transcriptome, we created an edited copy of the plastome where C was modified to T at sites exceeding 20% editing. This ensured that start and stop codons created by editing were accounted for. Annotation of the chloroplast genes was then done by Chloë (https://github.com/ian-small/chloe) and applied to the ‘unedited’ original version of the plastome. The chloroplast genome of 
+Use trimmed reads to assemble the _Phylloglossum drumonndii_ chloroplast genome using [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty). Use a related species chloroplast sequence as a seed, for example, [_Huperzia serrata rbcL_](https://www.ncbi.nlm.nih.gov/nuccore/DQ464224.1). 
+
+Config file settings: _type=chloro; genome range=120000-220000bp; kmer=51_
+
+The chloroplast genome assembly was verified with Pilon (Walker et al., 2014). Using the RNA editing sites identified in the chloroplast transcriptome, we created an edited copy of the plastome where C was modified to T at sites exceeding 20% editing. This ensured that start and stop codons created by editing were accounted for. Annotation of the chloroplast genes was then done by Chloë (https://github.com/ian-small/chloe) and applied to the ‘unedited’ original version of the plastome. The chloroplast genome of 
 Phylloglossum drummondii is available in GenBank as accession OR992133.
 
 ## Mitochondrial genome assembly and annotation
