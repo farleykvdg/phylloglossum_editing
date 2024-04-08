@@ -3,6 +3,8 @@ Open access data and methodology for detecting RNA editing events in the chlorop
 
 This repository contains the code used to create figures presented in The Plant Journal article "Insights into U-to-C editing from the lycophyte Phylloglossum drummondii", as well as code for identifying RNA editing sites within chloroplast and mitochondrion transcripts using the Julia program 'pyrimid', and associated RNA editing Jupyter notebooks which operate with a Julia kernal.
 
+# Data Availability
+
 # Chloroplast genome assembly and annotation
 DNA reads were trimmed using BBDuk from the BBtools suite (Settings ktrim=r k=23 mink=11 hdist=1 ftm=5 tpe tbo) (Bushnell, 2016). Trimmed reads were used to assemble the chloroplast genome using NOVOPlasty with the Huperzia serrata rbcL gene as a seed sequence (settings type=chloro; genome range=120000-220000bp; kmer=51) (Dierckxsens et al., 2017), and using GetOrganelle (Jin et al., 2020). The resulting assemblies were identical. The chloroplast genome assembly was verified with Pilon (Walker et al., 2014). Using the RNA editing sites identified in the chloroplast transcriptome, we created an edited copy of the plastome where C was modified to T at sites exceeding 20% editing. This ensured that start and stop codons created by editing were accounted for. Annotation of the chloroplast genes was then done by Chloë (https://github.com/ian-small/chloe) and applied to the ‘unedited’ original version of the plastome. The chloroplast genome of 
 Phylloglossum drummondii is available in GenBank as accession OR992133.
