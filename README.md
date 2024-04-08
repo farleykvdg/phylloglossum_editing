@@ -5,6 +5,8 @@ This repository contains the code used to create figures presented in The Plant 
 
 ## Data Availability
 
+The chloroplast genome of _Phylloglossum drummondii_ is available in GenBank as accession [OR992133](https://www.ncbi.nlm.nih.gov/nuccore/OR992133).
+
 ## Chloroplast genome assembly and annotation
 Trim DNA reads using BBDuk from the [BBtools suite](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/).
 
@@ -14,8 +16,9 @@ Use trimmed reads to assemble the _Phylloglossum drumonndii_ chloroplast genome 
 
 Config file settings: _type=chloro; genome range=120000-220000bp; kmer=51_
 
-The chloroplast genome assembly was verified with Pilon (Walker et al., 2014). Using the RNA editing sites identified in the chloroplast transcriptome, we created an edited copy of the plastome where C was modified to T at sites exceeding 20% editing. This ensured that start and stop codons created by editing were accounted for. Annotation of the chloroplast genes was then done by Chloë (https://github.com/ian-small/chloe) and applied to the ‘unedited’ original version of the plastome. The chloroplast genome of 
-Phylloglossum drummondii is available in GenBank as accession OR992133.
+Optionally, you can verify and attempt to improve the assembly using [Pilon](https://github.com/broadinstitute/pilon). 
+
+Prelimintary annotation of the chloroplast genome can be achieved using [Chloë](https://chloe.plastid.org/annotate.html), however, Chloë is optimised for angiosperms and will not currently produce accurate annotations.
 
 ## Mitochondrial genome assembly and annotation
 Mitochondrial assembly was achieved using a combined approach utilising NOVOPlasty (Dierckxsens et al., 2017), GetOrganelle (Jin et al., 2020), SPAdes (Bankevich et al., 2012) and Geneious Prime (v2023.0.4) (https://www.geneious.com). NOVOPlasty was able to obtain a non-contiguous mitochondrial assembly (settings type=mito_plant; genome range=300000-550000bp; kmer=23) using the complete mitochondrial genome of Phlegmariurus squarrosus as a seed input file. The NOVOPlasty assembly of the Phylloglossum chloroplast genome was supplied as a reference sequence. SPAdes  was used to assemble an alternative view of the mitochondrial genome as an assembly graph (settings --cov-cutoff 50.0 --assembler-only --careful) (Bankevich et al., 2012). The SPAdes output FastG graph was visualised in Bandage (Wick et al., 2015) and mitochondrial genes were identified by blastn (Altschul et al., 1990) using gene sequences from Phlegmariurus squarrosus as queries. DNA reads were mapped to each mitochondrial assembly option and the mapped reads were used as input for the Geneious de novo assembly algorithm. Ultimately, the SPAdes assembly version was used as the basis for the final assembly using connections suggested by Geneious and/or NOVOPlasty to manually edit the FastG file and eliminate dead-ends. Pilon (Walker et al., 2014) was used to verify the final assembly. The path chosen for the ‘master circle’ view of the mitochondrial genome is only one of many possible arrangements of the assembly. The Phylloglossum drummondii mitochondrial genome is available in GenBank as accession PP024676.
