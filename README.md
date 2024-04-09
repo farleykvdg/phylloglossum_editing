@@ -5,6 +5,8 @@ This repository contains the code used to create figures presented in The Plant 
 
 ## Data Availability
 
+DNAseq and RNAseq datasets are available on the Sequence Read Archive as accession [PRJNA818771](https://www.ncbi.nlm.nih.gov/sra?term=SRP365360).
+
 The chloroplast genome of _Phylloglossum drummondii_ is available in GenBank as accession [OR992133](https://www.ncbi.nlm.nih.gov/nuccore/OR992133).
 
 The mitochondrion genome of _Phylloglossum drummondii_ is available in GenBank as accession [PP024676](https://www.ncbi.nlm.nih.gov/nuccore/PP024676).
