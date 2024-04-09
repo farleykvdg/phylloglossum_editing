@@ -1,15 +1,15 @@
 # _Phylloglossum_ RNA Editing
 Open access data and methodology for detecting RNA editing events in the chloroplast and mitochondria of the Western Australian lycophyte Phylloglossum drummondii.
 
-This repository contains the code used to create figures presented in The Plant Journal article "Insights into U-to-C editing from the lycophyte Phylloglossum drummondii", as well as code for identifying RNA editing sites within chloroplast and mitochondrion transcripts using the Julia program 'pyrimid', and associated RNA editing Jupyter notebooks which operate with a Julia kernal.
+This repository contains the code used to create figures presented in The Plant Journal article "Insights into U-to-C editing from the lycophyte Phylloglossum drummondii", as well as code for identifying RNA editing sites within chloroplast and mitochondrion transcripts using the Julia program 'pyrimid', and associated RNA editing Jupyter notebooks which operate with a Julia kernel.
 
 ## Data Availability
 
-DNAseq and RNAseq datasets are available on the Sequence Read Archive as accession [PRJNA818771](https://www.ncbi.nlm.nih.gov/sra?term=SRP365360).
+DNAseq and RNAseq datasets are available in the Sequence Read Archive as accession [PRJNA818771](https://www.ncbi.nlm.nih.gov/sra?term=SRP365360).
 
 The chloroplast genome of _Phylloglossum drummondii_ is available in GenBank as accession [OR992133](https://www.ncbi.nlm.nih.gov/nuccore/OR992133).
 
-The mitochondrion genome of _Phylloglossum drummondii_ is available in GenBank as accession [PP024676](https://www.ncbi.nlm.nih.gov/nuccore/PP024676).
+The mitochondrial genome of _Phylloglossum drummondii_ is available in GenBank as accession [PP024676](https://www.ncbi.nlm.nih.gov/nuccore/PP024676).
 
 ## Chloroplast genome assembly and annotation
 Trim DNA reads using BBDuk from the [BBtools suite](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/).
@@ -22,7 +22,7 @@ Config file settings: _type=chloro; genome range=120000-220000bp; kmer=51_
 
 Optionally, you can verify and attempt to improve the assembly using [Pilon](https://github.com/broadinstitute/pilon). 
 
-Prelimintary annotation of the chloroplast genome can be achieved using [Chloë](https://chloe.plastid.org/annotate.html), however, Chloë is optimised for angiosperms and will not currently produce accurate annotations. Annotations for the _Phylloglossum drummondii_ plastome were generated with a beta version of Chloë which included Lycophyte and Monilophyte reference sequences.
+Preliminary annotation of the chloroplast genome can be achieved using [Chloë](https://chloe.plastid.org/annotate.html), however, Chloë is optimised for angiosperms and will not currently produce accurate annotations for lycophytes. Annotations for the _Phylloglossum drummondii_ plastome were generated with a beta version of Chloë which included Lycophyte and Monilophyte reference sequences.
 
 ## Mitochondrial genome assembly and annotation
 Mitochondrial assembly can be achieved by combining NOVOPlasty, [SPAdes](https://github.com/ablab/spades) and [Geneious Prime](https://www.geneious.com/). 
@@ -39,14 +39,14 @@ Annotations from _Phlegmariurus squarrosus_ were extracted using Geneious Prime 
 
 [tRNAscan-SE](http://lowelab.ucsc.edu/tRNAscan-SE/) was used to check for missed tRNA gene annotations, and identified tRNAs were then checked against the [PlantRNA2.0 database](https://seve.ibmp.unistra.fr/plantrna/). 
 
-All mitochondrion genes were manually curated using RNA editing events as a reference to ensure start codon creation, stop codon creation and premature stop codon removal events were accounted for. 
+All mitochondrial genes were manually curated using RNA editing events as a reference to ensure start codon creation, stop codon creation and premature stop codon removal events were accounted for. 
 
 We subsequently mapped annotations from _Phylloglossum_ to the mitochondrion genomes of _Huperzia crispata_ and _Phlegmariurus squarrosus_ to compare annotation start points, end points and gene counts. We have corrected several annotations in the _Huperzia_ and _Phlegmariurus_ mitochondrion genomes.
 
 ## Detection of RNA editing events
-Merge trimmed RNAseq datasets using BBmerage with Settings _qtrim2=t, trimq=10,15,20, minq=12_ 
+Merge trimmed RNAseq datasets using bbmerge with Settings _qtrim2=t, trimq=10,15,20, minq=12_ 
 
-Map the merged _and_ unmerged reads to the organelle genome assemblies using BBWrap Settings _mappedonly=t ambiguous=random_. 
+Map the merged _and_ unmerged reads to the organelle genome assemblies using bbwrap Settings _mappedonly=t ambiguous=random_. 
 
 Nucleotide count files for each position in the organelle genomes were generated for each RNA-seq dataset and the DNAseq dataset using the version of Pyrimid available through this repository using settings _–m 0, -u_. 
 
