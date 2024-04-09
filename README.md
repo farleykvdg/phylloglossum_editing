@@ -66,7 +66,11 @@ Use “hmmsearch” from [HMMER v3.2.1](hmmer.org) was to search for PPR motifs 
 Use PPRfinder_vApr19 (present in this repository) to identify PPR proteins from the open reading frames with the output of hmmsearch.
 
 ## Phylogenetic analysis of DYW:KP proteins
-Four DYW:KP sequences from Huperzia serrata, four sequences from Phylloglossum and three sequences from Phlegmariurus squarrosus and were extracted from assembled transcriptomes. The 11 DYW:KP domain peptide sequences were aligned with MUSCLE v5.1 (Edgar, 2004) and then converted to codon alignments. A maximum likelihood phylogenetic tree was constructed using IQTREE 2 v2.1.4 (Minh et al., 2020). The MG+F3X4+R2 model was identified as the best fit according to the inbuilt ModelFinder (Kalyaanamoorthy et al., 2017). Node confidence was estimated from 1000 bootstrap replicates with ultrafast bootstrap approximation UFBoot2 (Hoang et al., 2018).
+You should find that there are four DYW:KP sequences in the _Huperzia serrata_ and _Phylloglossum drummondii_ PPR .beads file, and three sequences in the _Phlegmariurus squarrosus_ beads file. 
+
+Aligning these 11 DYW:KP domain sequences with [MUSCLE v5.1](https://www.ebi.ac.uk/jdispatcher/msa/muscle) or [MAFFT](https://mafft.cbrc.jp/alignment/software/) will provide an alignment file which can be converted to a codon alignment using nt2codon.jl present in this repository. 
+
+A maximum likelihood phylogenetic tree constructed using [IQTREE 2 v2.1.4](https://github.com/iqtree/iqtree2) and the inbuilt model finder will produce a phylogeny of the DYW:KP domains.
 
 ## U-to-C PPR editing factor target prediction
 The longest KP1, KP2, KP3 and KP4 sequences from Phylloglossum, Huperzia serrata and Phlegmariurus squarrosus were identified and supplied alongside the nucleotide sequences 30 nt upstream of mitochondrial U-to-C editing sites as input for the program PPRmatcher (Royan et al., 2021) which assesses the strength of a PPR motif match to a nucleotide using a motif scoring table derived from verified PPR binding sites. Proteins from each species were matched against the editing site from their respective mitochondrial genes, which were identical except for the nad5 upstream region. In some cases, there were not enough PPR motifs to make strong predictions, and the association of truncated DYW:KP proteins was made through the protein alignments, and codon model phylogeny, such as in the case of Phylloglossum KP1.
