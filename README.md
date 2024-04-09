@@ -59,7 +59,11 @@ Use trimmed RNA reads to build a _de novo_ transcriptome assembly for _Phylloglo
 We assembled transcriptomes for _Phylloglossum drummondii_, and also _Phlegmariurus squarrosus_ and _Huperzia serrata_. RNA-seq data for _Huperzia serrata_ is available under accession number [PRJCA000351](https://ngdc.cncb.ac.cn/bioproject/browse/PRJCA00035) and _Phlegmariurus squarrosus_ is available [here](https://medplantrnaseq.org/assemblies/Huperzia_squarrosa.tar.gz).
 
 ## Identification of PPR proteins
-Open reading frames in the _Phylloglossum drummondii_, _Phlegmariurus squarrosus_ and _Huperzia serrata_ transcriptomes were translated in forward and reverse orientations and in all six reading frames using the version of orfinder.jl available in this repository. “hmmsearch” from HMMER v3.2.1 (hmmer.org) was used to search for PPR motifs in the ORFs of the Phylloglossum transcriptome using the DYW and DYW:KP motif Hidden Markov Model (HMM) profiles from (Gutmann et al., 2020). PPRfinder (Gutmann et al., 2020) was used to predict the motif structure of each protein from the output of hmmsearch. 
+Open reading frames in the _Phylloglossum drummondii_, _Phlegmariurus squarrosus_ and _Huperzia serrata_ transcriptomes were translated in forward and reverse orientations and in all six reading frames using the version of orfinder.jl available in this repository. 
+
+Use “hmmsearch” from [HMMER v3.2.1](hmmer.org) was to search for PPR motifs in the generated open reading frames .fasta file from the transcriptome assemblies using the DYW and DYW:KP motif Hidden Markov Model (HMM) profile "all_KP.hmm" present in this repository, and originally described in [(Gutmann et al., 2020)](https://doi.org/10.1016/j.molp.2019.11.002). 
+
+Use PPRfinder_vApr19 (present in this repository) to identify PPR proteins from the open reading frames with the output of hmmsearch.
 
 ## Phylogenetic analysis of DYW:KP proteins
 Four DYW:KP sequences from Huperzia serrata, four sequences from Phylloglossum and three sequences from Phlegmariurus squarrosus and were extracted from assembled transcriptomes. The 11 DYW:KP domain peptide sequences were aligned with MUSCLE v5.1 (Edgar, 2004) and then converted to codon alignments. A maximum likelihood phylogenetic tree was constructed using IQTREE 2 v2.1.4 (Minh et al., 2020). The MG+F3X4+R2 model was identified as the best fit according to the inbuilt ModelFinder (Kalyaanamoorthy et al., 2017). Node confidence was estimated from 1000 bootstrap replicates with ultrafast bootstrap approximation UFBoot2 (Hoang et al., 2018).
