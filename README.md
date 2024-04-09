@@ -74,7 +74,7 @@ A maximum likelihood phylogenetic tree constructed using [IQTREE 2 v2.1.4](https
 
 ## U-to-C PPR editing factor target prediction
 
-The longest KP1, KP2, KP3 and KP4 sequences from _Phylloglossum drummondii_, _Huperzia serrata_ and _Phlegmariurus squarrosus_ can be matched to nucleotide sequences upstream of mitochondrial U-to-C editing sites for PPRmatcher (Royan et al., 2021).
+The longest KP1, KP2, KP3 and KP4 sequences from _Phylloglossum drummondii_, _Huperzia serrata_ and _Phlegmariurus squarrosus_ can be matched to nucleotide sequences upstream of mitochondrial U-to-C editing sites for [PPRmatcher](https://github.com/ian-small/PPRmatcher) originally described in [(Royan et al., 2021)](https://www.nature.com/articles/s42003-021-02062-9).
 
 ## Acknowledgements
 This work was supported by Australian Research Council grant DP200102981. The authors have no conflicts of interest to declare. We are grateful to Volker Knoop and Simon Zumkeller for discussions and advice concerning lycophyte organelle gene structure and splicing.
