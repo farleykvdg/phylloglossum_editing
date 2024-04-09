@@ -35,7 +35,7 @@ The SPAdes output FastG graph was visualised in [Bandage](https://github.com/rrw
 
 DNA reads were mapped to each mitochondrial assembly option and the mapped reads were used as input for the Geneious _de novo_ assembly algorithm. Ultimately, the SPAdes assembly version was used as the basis for the final assembly using connections suggested by Geneious and/or NOVOPlasty to manually edit the FastG file and eliminate dead-ends. Pilon was used to verify the final assembly. The path chosen for the ‘master circle’ view of the mitochondrial genome is only one of many possible arrangements of the assembly.
 
-Annotations from [_Phlegmariurus squarrosus_](https://www.ncbi.nlm.nih.gov/nucleotide/NC_017755.1) were extracted using Geneious Prime and mapped to the Phylloglossum mitochondrial genome assembly. You can also use Geneious' "annotate from" function to quickly map gene annotations from related species onto _de novo_ assemblies. In cases where introns contained large insertions or deletions, mapping individual exons accurately identified intron boundaries, which were later verified with RNAseq data. 
+Annotations from _Phlegmariurus squarrosus_ were extracted using Geneious Prime and mapped to the Phylloglossum mitochondrial genome assembly. You can also use Geneious' "annotate from" function to quickly map gene annotations from related species onto _de novo_ assemblies. In cases where introns contained large insertions or deletions, mapping individual exons accurately identified intron boundaries, which were later verified with RNAseq data. 
 
 [tRNAscan-SE](http://lowelab.ucsc.edu/tRNAscan-SE/) was used to check for missed tRNA gene annotations, and identified tRNAs were then checked against the [PlantRNA2.0 database](https://seve.ibmp.unistra.fr/plantrna/). 
 
@@ -54,12 +54,12 @@ Nucleotide count files can be converted to RNA editing tables using the Jupyter 
 
 ## De novo transcriptome assembly
 
-Use trimmed RNA reads to build a _de novo_ transcriptome assembly for _Phylloglossum_ using rnaSPAdes run with default settings. 
+Use trimmed RNA reads to build a _de novo_ transcriptome assembly for _Phylloglossum drummondii_ using rnaSPAdes run with default settings. 
 
 We assembled transcriptomes for _Phylloglossum drummondii_, and also _Phlegmariurus squarrosus_ and _Huperzia serrata_. RNA-seq data for _Huperzia serrata_ is available under accession number [PRJCA000351](https://ngdc.cncb.ac.cn/bioproject/browse/PRJCA00035) and _Phlegmariurus squarrosus_ is available [here](https://medplantrnaseq.org/assemblies/Huperzia_squarrosa.tar.gz).
 
 ## Identification of PPR proteins
-Open reading frames in the Phylloglossum, Phlegmariurus squarrosus and Huperzia serrata transcriptomes were translated in forward and reverse orientations and in all six reading frames using orfinder.jl (github.com/ian-small/orfinder). “hmmsearch” from HMMER v3.2.1 (hmmer.org) was used to search for PPR motifs in the ORFs of the Phylloglossum transcriptome using the DYW and DYW:KP motif Hidden Markov Model (HMM) profiles from (Gutmann et al., 2020). PPRfinder (Gutmann et al., 2020) was used to predict the motif structure of each protein from the output of hmmsearch. 
+Open reading frames in the _Phylloglossum drummondii_, _Phlegmariurus squarrosus_ and _Huperzia serrata_ transcriptomes were translated in forward and reverse orientations and in all six reading frames using the version of orfinder.jl available in this repository. “hmmsearch” from HMMER v3.2.1 (hmmer.org) was used to search for PPR motifs in the ORFs of the Phylloglossum transcriptome using the DYW and DYW:KP motif Hidden Markov Model (HMM) profiles from (Gutmann et al., 2020). PPRfinder (Gutmann et al., 2020) was used to predict the motif structure of each protein from the output of hmmsearch. 
 
 ## Phylogenetic analysis of DYW:KP proteins
 Four DYW:KP sequences from Huperzia serrata, four sequences from Phylloglossum and three sequences from Phlegmariurus squarrosus and were extracted from assembled transcriptomes. The 11 DYW:KP domain peptide sequences were aligned with MUSCLE v5.1 (Edgar, 2004) and then converted to codon alignments. A maximum likelihood phylogenetic tree was constructed using IQTREE 2 v2.1.4 (Minh et al., 2020). The MG+F3X4+R2 model was identified as the best fit according to the inbuilt ModelFinder (Kalyaanamoorthy et al., 2017). Node confidence was estimated from 1000 bootstrap replicates with ultrafast bootstrap approximation UFBoot2 (Hoang et al., 2018).
