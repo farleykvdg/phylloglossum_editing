@@ -73,7 +73,8 @@ Aligning these 11 DYW:KP domain sequences with [MUSCLE v5.1](https://www.ebi.ac.
 A maximum likelihood phylogenetic tree constructed using [IQTREE 2 v2.1.4](https://github.com/iqtree/iqtree2) and the inbuilt model finder will produce a phylogeny of the DYW:KP domains.
 
 ## U-to-C PPR editing factor target prediction
-The longest KP1, KP2, KP3 and KP4 sequences from Phylloglossum, Huperzia serrata and Phlegmariurus squarrosus were identified and supplied alongside the nucleotide sequences 30 nt upstream of mitochondrial U-to-C editing sites as input for the program PPRmatcher (Royan et al., 2021) which assesses the strength of a PPR motif match to a nucleotide using a motif scoring table derived from verified PPR binding sites. Proteins from each species were matched against the editing site from their respective mitochondrial genes, which were identical except for the nad5 upstream region. In some cases, there were not enough PPR motifs to make strong predictions, and the association of truncated DYW:KP proteins was made through the protein alignments, and codon model phylogeny, such as in the case of Phylloglossum KP1.
+
+The longest KP1, KP2, KP3 and KP4 sequences from _Phylloglossum drummondii_, _Huperzia serrata_ and _Phlegmariurus squarrosus_ can be matched to nucleotide sequences upstream of mitochondrial U-to-C editing sites for PPRmatcher (Royan et al., 2021).
 
 ## Acknowledgements
 This work was supported by Australian Research Council grant DP200102981. The authors have no conflicts of interest to declare. We are grateful to Volker Knoop and Simon Zumkeller for discussions and advice concerning lycophyte organelle gene structure and splicing.
